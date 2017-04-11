@@ -3,13 +3,17 @@ body {
 }
 
 h1 {
-    background-color: ;
+    background-color: ; 
+    text-align: justify;
+    
 }
 
 div {
     background-color: ;
+    text-align: justify;
 }
 
 p {
     background-color: ;
+    text-align: justify;
 }
