@@ -20,8 +20,8 @@ p {
     text-align: center;
 }
 
-p::-moz-selection { color: teal}
-p::selection { color: teal; }
+p::-moz-selection { background: teal;}
+p::selection { background: teal;}
 
 a {
     color: hotpink;
