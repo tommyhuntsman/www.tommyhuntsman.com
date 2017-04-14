@@ -20,8 +20,8 @@ p {
     text-align: center;
 }
 
-p::-moz-selection { background: tomato;}
-p::selection { background: tomato;}
+p::-moz-selection { background: darkorchid;}
+p::selection { background: darkorchid;}
 
 a {
     color: ;
