@@ -23,6 +23,8 @@ p {
 p::-moz-selection { background: darkorchid;}
 p::selection { background: darkorchid;}
 
+h1::-moz-selection { background: darkorchid;}
+h1::selection { background: darkorchid;}
 
 ul {
     list-style-type: none;
