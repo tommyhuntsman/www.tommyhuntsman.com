@@ -59,3 +59,19 @@ a:active {
     color: blue;
     text-decoration: none;
 }
+
+#nav {
+  background: #8DC3E9;
+  width: 100%;
+  height: 70px;
+  border-bottom: 2px solid #4C88BE;
+}
+
+#nav ul {
+  margin: 0;
+}
+
+#nav ul li {
+  display: inline;
+  font-size: 40px;
+}
