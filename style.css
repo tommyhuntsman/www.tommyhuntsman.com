@@ -29,7 +29,7 @@ a {
 
 /* unvisited link */
 a:link {
-    color: red;
+    color: teal;
     text-decoration: none;
 }
 
