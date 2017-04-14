@@ -26,6 +26,7 @@ p::selection { background: darkorchid;}
 
 ul {
     list-style-type: none;
+    text-align: center;
 }
 
 
