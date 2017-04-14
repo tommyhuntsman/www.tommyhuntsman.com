@@ -24,9 +24,9 @@ p::-moz-selection { background: teal;}
 p::selection { background: teal;}
 
 a {
-    color: hotpink;
+    color: ;
 }
-Try it Yourself »
+
 /* unvisited link */
 a:link {
     color: red;
