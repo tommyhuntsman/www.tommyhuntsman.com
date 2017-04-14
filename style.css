@@ -21,7 +21,7 @@ p {
 }
 
 p::-moz-selection { background: darkturquoise;}
-p::selection { background: teal;}
+p::selection { background: darkturquoise;}
 
 a {
     color: ;
