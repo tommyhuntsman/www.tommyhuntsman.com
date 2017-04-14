@@ -20,7 +20,7 @@ p {
     text-align: center;
 }
 
-p::-moz-selection { background: teal;}
+p::-moz-selection { background: darkturquoise;}
 p::selection { background: teal;}
 
 a {
