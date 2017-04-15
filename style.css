@@ -1,8 +1,10 @@
+
+/* BODY */
 body {
     background-color: black;
 }
 
-/* HEADING */
+/* HEADINGS */
 h1 {
     color: dodgerblue; 
     font-family: arial;
@@ -12,7 +14,6 @@ h1 {
     text-align: center;
 }
 
-/* HEADING */
 h2 {
     color: #FEF655; 
     font-family: arial;
