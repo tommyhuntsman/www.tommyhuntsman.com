@@ -4,7 +4,7 @@ body {
 
 /* HEADING */
 h1 {
-    color: #FEF655; 
+    color: dodgerblue; 
     font-family: arial;
     font-weight: 400;
     font-size: 1.7em; /* 40px/16=2.5em */
@@ -46,7 +46,7 @@ a {
 
 /* unvisited link */
 a:link {
-    color: dodgerblue;
+    color: FEF655;
     text-decoration: none;
 }
 
