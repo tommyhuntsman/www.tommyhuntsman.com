@@ -64,6 +64,6 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: blue;
+    color: FEF655;
     text-decoration: none;
 }
