@@ -2,13 +2,17 @@ body {
     background-color: black;
 }
 
+/* HEADING */
 h1 {
-    font-family: arial;
-    font-size: 1.7em; /* 40px/16=2.5em */
     color: #FEF655; 
+    font-family: arial;
+    font-weight: 100;
+    font-size: 1.7em; /* 40px/16=2.5em */
+    
     text-align: center;
 }
 
+/* HEADING */
 h2 {
     font-size: 1.875em; /* 30px/16=1.875em */
 }
