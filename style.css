@@ -6,7 +6,7 @@ body {
 
 /* HEADINGS */
 h1 {
-    color: dodgerblue; 
+    color: #FEF655; 
     font-family: arial;
     font-weight: 400;
     font-size: 1.7em; /* 40px/16=2.5em */
@@ -15,7 +15,7 @@ h1 {
 }
 
 h2 {
-    color: dodgerblue; 
+    color: #FEF655; 
     font-family: arial;
     font-weight: 400;
     font-size: 1.1em; /* 40px/16=2.5em */
@@ -44,7 +44,7 @@ ul {
 
 /* LINKS */
 a:link {
-    color: #FEF655;
+    color: dodgerblue;
     text-decoration: none;
 }
 
@@ -59,6 +59,6 @@ a:hover {
 }
 
 a:active {
-    color: FEF655;
+    color: #FEF655;
     text-decoration: none;
 }
