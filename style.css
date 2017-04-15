@@ -39,30 +39,22 @@ ul {
     text-align: center;
 }
 
-
-a {
-    color: ;
-}
-
-/* unvisited link */
+/* LINKS */
 a:link {
     color: FEF655;
     text-decoration: none;
 }
 
-/* visited link */
 a:visited {
     color: green;
     text-decoration: none;
 }
 
-/* mouse over link */
 a:hover {
     color: hotpink;
     text-decoration: none;
 }
 
-/* selected link */
 a:active {
     color: FEF655;
     text-decoration: none;
