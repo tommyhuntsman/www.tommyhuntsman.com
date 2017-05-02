@@ -26,22 +26,10 @@ h1::-moz-selection { background: darkorchid;}
 h1::selection { background: darkorchid;}
 
 
-/* PARAGRAPHS */
-p {
-    font-family: arial;
-    font-size: 0.875em; /* 14px/16=0.875em */
-    color: white;
-    text-align: center;
-}
-
-p::-moz-selection { background: darkorchid;}
-p::selection { background: darkorchid;}
-
-
 /* MENU */
 
 .vertical-menu {
-    width: 200px; /* Set a width if you like */
+    width: 75%; /* Set a width if you like */
     margin: auto;
 }
 
@@ -83,3 +71,17 @@ a:active {
     color: #FEF655;
     text-decoration: none;
 }
+
+
+/* PARAGRAPHS */
+p {
+    font-family: arial;
+    font-size: 0.875em; /* 14px/16=0.875em */
+    color: white;
+    text-align: center;
+}
+
+p::-moz-selection { background: darkorchid;}
+p::selection { background: darkorchid;}
+
+
