@@ -42,6 +42,7 @@ p::selection { background: darkorchid;}
 
 .vertical-menu {
     width: 200px; /* Set a width if you like */
+    margin: auto;
 }
 
 .vertical-menu a {
@@ -51,7 +52,7 @@ p::selection { background: darkorchid;}
     padding: 12px; /* Add some padding */
     text-decoration: none; /* Remove underline from links */
     text-align: center;
-    margin: auto;
+    
 }
 
 .vertical-menu a:hover {
