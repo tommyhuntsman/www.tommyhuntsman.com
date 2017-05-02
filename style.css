@@ -44,7 +44,7 @@ h1::selection { background: darkorchid;}
 }
 
 a:link {
-    color: dodgerblue;
+    color: white;
     text-decoration: none;
 }
 
@@ -56,7 +56,7 @@ a:link {
 
 .vertical-menu a.active {
     background-color: black; /* Add a green color to the "active/current" link */
-    color: white;
+    color: dodgerblue;
 }
 
 
