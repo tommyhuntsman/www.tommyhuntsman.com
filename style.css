@@ -21,6 +21,11 @@ h2 {
     text-align: center;
 }
 
+
+h1::-moz-selection { background: darkorchid;}
+h1::selection { background: darkorchid;}
+
+
 /* PARAGRAPHS */
 p {
     font-family: arial;
@@ -29,19 +34,33 @@ p {
     text-align: center;
 }
 
-
 p::-moz-selection { background: darkorchid;}
 p::selection { background: darkorchid;}
 
-h1::-moz-selection { background: darkorchid;}
-h1::selection { background: darkorchid;}
 
-ul {
-    list-style-type: none;
-    text-align: center;
+/* MENU */
+
+.vertical-menu {
+    width: 200px; /* Set a width if you like */
 }
 
-/* LINKS */
+.vertical-menu a {
+    background-color: #eee; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+    background-color: tomato; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+    background-color: #4CAF50; /* Add a green color to the "active/current" link */
+    color: white;
+}
+
 a:link {
     color: dodgerblue;
     text-decoration: none;
