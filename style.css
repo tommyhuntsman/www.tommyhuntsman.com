@@ -44,7 +44,9 @@ h1::selection { background: darkorchid;}
 }
 
 .vertical-menu a:hover {
-    background-color: tomato; /* Dark grey background on mouse-over */
+    background-color: ; /* Dark grey background on mouse-over */
+    color: tomato;
+    text-decoration: none;
 }
 
 .vertical-menu a.active {
@@ -62,10 +64,7 @@ a:visited {
     text-decoration: none;
 }
 
-a:hover {
-    color: tomato;
-    text-decoration: none;
-}
+
 
 a:active {
     color: #FEF655;
