@@ -22,7 +22,8 @@ h2 {
   font-weight: 400;
   line-height: 1.15;
   color: white;
-  text-align: center;
+  text-align: center;   
+  font-family: arial;
 }
 
 h1::-moz-selection { background: darkorchid;}
