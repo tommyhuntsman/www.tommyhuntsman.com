@@ -63,13 +63,13 @@ color: white;
 
 .vertical-menu a:hover {
     background-color: ; /* Dark grey background on mouse-over */
-    color: tomato;
+    color: dodgerblue;
     text-decoration: none;
 }
 
 .vertical-menu a.active {
     background-color: black; /* Add a green color to the "active/current" link */
-    color: dodgerblue;
+    color: white;
 }
 
 
