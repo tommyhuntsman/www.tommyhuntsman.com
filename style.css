@@ -20,7 +20,7 @@ h1 {
 h2 {
   font-size: 1.3em; /* 40px/16=2.5em */
   font-weight: 400;
-  line-height: 1.15;
+  line-height: .75;
   color: white;
   text-align: center;   
   font-family: arial;
