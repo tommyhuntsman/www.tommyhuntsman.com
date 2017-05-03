@@ -5,29 +5,20 @@ body {
 }
 
 /* HEADINGS */
-h1 {
-    color: white; 
-    font-family: arial;
-    font-weight: 400;
-    font-size: 1.7em; /* 40px/16=2.5em */
-    text-align: center;
-}
 
-h2 {
-    color: white; 
-    font-family: arial;
-    font-weight: 400;
-    font-size: 1.3em; /* 40px/16=2.5em */
-    text-align: center;
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.45;
+  color: white; 
+  font-family: arial;
+  font-weight: 400;
+  font-size: 1.7em; /* 40px/16=2.5em */
+  text-align: center;
 }
-
 
 h1::-moz-selection { background: darkorchid;}
 h1::selection { background: darkorchid;}
 
-h1, h2, h3, h4, h5, h6 {
-  line-height: 1.45;
-}
+
 
 
 /* MENU */
