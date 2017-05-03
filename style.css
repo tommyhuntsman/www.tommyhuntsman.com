@@ -5,18 +5,32 @@ body {
 }
 
 /* HEADINGS */
-
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
   line-height: 1.45;
-  color: white; 
-  font-family: arial;
-  font-weight: 400;
-  font-size: 1.7em; /* 40px/16=2.5em */
   text-align: center;
+  color: white;
+  font-family: arial;
+}
+
+h1 {
+  font-size: 1.7em; /* 40px/16=2.5em */
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 1.3em; /* 40px/16=2.5em */
+  font-weight: 400;
+  line-height: .75;
 }
 
 h1::-moz-selection { background: darkorchid;}
 h1::selection { background: darkorchid;}
+
+color: white; 
+    font-family: arial;
+    font-weight: 400;
+    font-size: 1.3em; /* 40px/16=2.5em */
+    text-align: center;
 
 
 
