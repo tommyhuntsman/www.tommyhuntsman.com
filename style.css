@@ -8,13 +8,13 @@ body {
 h1, h3, h4, h5, h6 {
   line-height: 1.45;
   text-align: center;
-  color: white;
   font-family: arial;
 }
 
 h1 {
   font-size: 1.7em; /* 40px/16=2.5em */
   font-weight: 400;
+  color: white;
 }
 
 h2 {
@@ -22,7 +22,7 @@ h2 {
   font-weight: 400;
   margin-top: 1px;
   margin-bottom: 20px;
-  color: white;
+  color: dodgerblue;
   text-align: center;   
   font-family: arial;
 }
