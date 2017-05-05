@@ -57,13 +57,13 @@ color: white;
 }
 
 .vertical-menu a:link {
-    color: white;
+    color: lightgray;
     text-decoration: none;
 }
 
 .vertical-menu a:hover {
     background-color: ; /* Dark grey background on mouse-over */
-    color: #ffff66	;
+    color: white	;
     text-decoration: none;
 }
 
