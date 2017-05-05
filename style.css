@@ -85,7 +85,7 @@ p {
     font-family: arial;
     font-size: 0.875em; /* 14px/16=0.875em */
     color: white;
-    text-align: center;
+    text-align: left;
 }
 
 p::-moz-selection { background: darkorchid;}
