@@ -13,13 +13,13 @@ h1, h3, h4, h5, h6 {
 
 h1 {
   font-size: 1.7em; /* 40px/16=2.5em */
-  font-weight: 400;
+  font-weight: 200;
   color: white;
 }
 
 h2 {
   font-size: 1.3em; /* 40px/16=2.5em */
-  font-weight: 400;
+  font-weight: 200;
   margin-top: 1px;
   margin-bottom: 20px;
   color: #00ffaa;
@@ -82,6 +82,7 @@ p {
     font-size: 0.875em; /* 14px/16=0.875em */
     color: gray;
     text-align: center;
+    font-weight: 200;
 }
 
 p::-moz-selection { background: darkorchid;}
