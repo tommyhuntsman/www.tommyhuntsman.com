@@ -35,7 +35,7 @@ h1::selection { background: darkorchid;}
 
 
 
-/* MENU */
+/* VERTICAL NAVIGATION MENU */
 
 .vertical-menu {
     width: 75%; /* Set a width if you like */
@@ -53,13 +53,13 @@ h1::selection { background: darkorchid;}
 }
 
 .vertical-menu a:link {
-    color: #00ffaa;
+    color: white;
     text-decoration: none;
 }
 
 .vertical-menu a:hover {
     background-color: ; /* Dark grey background on mouse-over */
-    color: white	;
+    color: #00ffaa	;
     text-decoration: none;
 }
 
@@ -70,7 +70,7 @@ h1::selection { background: darkorchid;}
 
 
 a:visited {
-    color: #00ffaa;
+    color: white;
     text-decoration: none;
 }
 
