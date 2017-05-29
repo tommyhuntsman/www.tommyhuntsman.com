@@ -39,6 +39,7 @@ h1::selection { background: darkorchid;}
 
 .vertical-menu { 
     background-color: black
+        text-align: center
 }
 
 .vertical-menu button {
