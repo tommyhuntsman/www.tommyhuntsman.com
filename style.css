@@ -43,7 +43,7 @@ h1::selection { background: darkorchid;}
 }
 
 .vertical-menu button {
-    width:85%
+    width:270px
     border: none;
     color: white; /* white text color */
     display: block; /* Make the links appear below each other */
