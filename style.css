@@ -44,7 +44,7 @@ h1::selection { background: darkorchid;}
 
 .vertical-menu button {
     background-color: black; /* Grey background color */
-    color: black; /* Black text color */
+    color: white; /* white text color */
     display: block; /* Make the links appear below each other */
     padding: 12px; /* Add some padding */
     text-decoration: none; /* Remove underline from links */
@@ -58,7 +58,7 @@ h1::selection { background: darkorchid;}
 }
 
 .vertical-menu button:hover {
-    background-color: ; /* Dark grey background on mouse-over */
+    background-color: white; /* Dark grey background on mouse-over */
     color: #00ffaa	;
     text-decoration: none;
 }
