@@ -38,12 +38,10 @@ h1::selection { background: darkorchid;}
 /* VERTICAL NAVIGATION MENU */
 
 .vertical-menu {
-    width: 75%; /* Set a width if you like */
-    margin: auto;
-    : center;
 }
 
 .vertical-menu button {
+    width:85%
     background-color: black; /* Grey background color */
     border: none;
     color: white; /* white text color */
