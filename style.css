@@ -42,7 +42,7 @@ h1::selection { background: darkorchid;}
     margin: auto;
 }
 
-.vertical-menu a {
+.vertical-menu button {
     background-color: black; /* Grey background color */
     color: black; /* Black text color */
     display: block; /* Make the links appear below each other */
@@ -52,24 +52,24 @@ h1::selection { background: darkorchid;}
     
 }
 
-.vertical-menu a:link {
+.vertical-menu button:link {
     color: white;
     text-decoration: none;
 }
 
-.vertical-menu a:hover {
+.vertical-menu button:hover {
     background-color: ; /* Dark grey background on mouse-over */
     color: #00ffaa	;
     text-decoration: none;
 }
 
-.vertical-menu a.active {
+.vertical-menu button.active {
     background-color: black; /* Add a green color to the "active/current" link */
     color: white;
 }
 
 
-a:visited {
+button:visited {
     color: white;
     text-decoration: none;
 }
