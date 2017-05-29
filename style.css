@@ -38,14 +38,15 @@ h1::selection { background: darkorchid;}
 /* VERTICAL NAVIGATION MENU */
 
 .vertical-menu { 
-    background-color: black
-    text-align: center
+    background-color: black;
+    text-align: center;
+    width:270px;
 }
 
 .vertical-menu button {
-    width:270px
+   
     border: none;
-    color: white; /* white text color */
+    color: white; /* text color */
     display: block; /* Make the links appear below each other */
     float: center;
     padding: 12px 12px; /* Add some padding */
