@@ -37,12 +37,12 @@ h1::selection { background: darkorchid;}
 
 /* VERTICAL NAVIGATION MENU */
 
-.vertical-menu {
+.vertical-menu { 
+    background-color: black
 }
 
 .vertical-menu button {
     width:85%
-    background-color: black; /* Grey background color */
     border: none;
     color: white; /* white text color */
     display: block; /* Make the links appear below each other */
