@@ -39,7 +39,7 @@ h1::selection { background: darkorchid;}
 
 .vertical-menu { 
     background-color: black
-        text-align: center
+    text-align: center
 }
 
 .vertical-menu button {
@@ -47,6 +47,7 @@ h1::selection { background: darkorchid;}
     border: none;
     color: white; /* white text color */
     display: block; /* Make the links appear below each other */
+    float: center;
     padding: 12px 12px; /* Add some padding */
     text-decoration: none; /* Remove underline from links */
     text-align: center;
