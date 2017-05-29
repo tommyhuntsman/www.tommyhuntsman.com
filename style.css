@@ -40,16 +40,18 @@ h1::selection { background: darkorchid;}
 .vertical-menu {
     width: 75%; /* Set a width if you like */
     margin: auto;
-    float: center;
+    : center;
 }
 
 .vertical-menu button {
     background-color: black; /* Grey background color */
+    border: none;
     color: white; /* white text color */
     display: block; /* Make the links appear below each other */
-    padding: 12px; /* Add some padding */
+    padding: 12px 12px; /* Add some padding */
     text-decoration: none; /* Remove underline from links */
     text-align: center;
+    font-size: 14px;
     
 }
 
