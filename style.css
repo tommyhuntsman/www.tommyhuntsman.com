@@ -37,13 +37,13 @@ h1::selection { background: darkorchid;}
 
 /* VERTICAL NAVIGATION MENU */
 
-.vertical-menu button{ 
+.mobile-navigation button{ 
     background-color: black;
     text-align: center;
     
 }
 
-.vertical-menu button {
+.mobile-navigation button {
     width:85%;
     border: none;
     color: white; /* text color */
@@ -57,13 +57,13 @@ h1::selection { background: darkorchid;}
     
 }
 
-.vertical-menu button:hover {
+.mobile-navigation button:hover {
     background-color: #00ffaa;
     color: black;
     text-decoration: none;
 }
 
-.vertical-menu button.active {
+.mobile-navigation button.active {
     background-color: black; /* Add a green color to the "active/current" link */
     color: white;
 }
