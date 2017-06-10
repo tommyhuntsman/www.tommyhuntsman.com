@@ -90,6 +90,7 @@ p::selection { background: darkorchid;}
 
 /* Style all font awesome icons */
 .fa {
+    display: block;
     margin: auto;
     padding: 20px;
     font-size: 30px;
