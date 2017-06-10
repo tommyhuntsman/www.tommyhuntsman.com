@@ -104,6 +104,18 @@ p::selection { background: darkorchid;}
 
 /* Set a specific color for each brand */
 
+/* Google */
+.fa-google {
+    background: #3B5998;
+    color: white;
+}
+
+/* GitHub */
+.fa-github {
+    background: #55ACEE;
+    color: white;
+}
+
 /* Facebook */
 .fa-facebook {
     background: #3B5998;
