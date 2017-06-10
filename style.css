@@ -112,8 +112,8 @@ p::selection { background: darkorchid;}
 
 /* GitHub */
 .fa-github {
-    background: #55ACEE;
-    color: white;
+    background: white;
+    color: black;
 }
 
 /* Facebook */
