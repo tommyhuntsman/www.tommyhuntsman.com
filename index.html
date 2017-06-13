@@ -46,5 +46,13 @@ $(document).ready(function(){
   <p id="demo" style="display:none">Hello JavaScript!</p>
 <button type="button" onclick="document.getElementById('demo').style.display='block'">Click Me!</button>
     </div>
+  
+  <form action="/action_page.php">
+First name: <input type="text" name="FirstName" value="Mickey"><br>
+Last name: <input type="text" name="LastName" value="Mouse"><br>
+<input type="submit" value="Submit">
+</form>
+
+<p>Click the "Submit" button and the form-data will be sent to a page on the server called "/action_page.php".</p>
 </footer>
 </html>
