@@ -42,7 +42,7 @@ h1::selection { background: darkorchid;}
     display: block; /* Make the links appear below each other */
     margin: auto;
     float: center;
-    padding: 30px 30px; /* Add some padding */
+    padding: 24px 24px; /* Add some padding */
     background-color: #0EACE2;
     text-align: left;
     text-decoration: none; /* Remove underline from links */
