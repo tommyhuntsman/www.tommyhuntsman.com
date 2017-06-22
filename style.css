@@ -31,13 +31,9 @@ h1::-moz-selection { background: darkorchid;}
 h1::selection { background: darkorchid;}
 
 
+/* MAIN MENU */
 
-
-
-
-/* VERTICAL NAVIGATION MENU */
-
-.mobile-navigation button{ 
+.main button{ 
     width: 300px;
     display: block; /* Make the links appear below each other */
     margin: auto;
@@ -49,27 +45,22 @@ h1::selection { background: darkorchid;}
     text-decoration: none; /* Remove underline from links */
     font-size: 16px;
     border-radius: ;
-    color: white; /* text color */
-
-
-
-    
+    color: white; /* text color */    
 }
 
-.mobile-navigation button:hover {
+.main button:hover {
     background-color: #00ffaa;
     color: black;
     text-decoration: none;
 }
 
-.mobile-navigation button.active {
+.main button.active {
     background-color: black; /* Add a green color to the "active/current" link */
     color: white;
 }
 
-
-button:visited {
-    color: white;
+main button:visited {
+    color: #00ffaa;
     text-decoration: none;
 }
 
