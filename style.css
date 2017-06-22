@@ -41,6 +41,7 @@ h1::selection { background: darkorchid;}
     background-color: #0EACE2;
     text-align: center;
     outiline: white;
+    border-radius: 8px;
     
 }
 
