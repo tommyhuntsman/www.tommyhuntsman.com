@@ -38,23 +38,21 @@ h1::selection { background: darkorchid;}
 /* VERTICAL NAVIGATION MENU */
 
 .mobile-navigation button{ 
-    background-color: #0EACE2;
-    text-align: center;
-    border: 2px solid white;
-    border-radius: 8px;
-    
-}
-
-.mobile-navigation button {
-    width:55%
-    color: white; /* text color */
+    width:75%;
     display: block; /* Make the links appear below each other */
     margin: auto;
     float: center;
     padding: 12px 12px; /* Add some padding */
+    background-color: #0EACE2;
+    text-align: left;
     text-decoration: none; /* Remove underline from links */
-    text-align: center;
     font-size: 14px;
+    border: 2px solid white;
+    border-radius: 8px;
+    color: white; /* text color */
+
+
+
     
 }
 
