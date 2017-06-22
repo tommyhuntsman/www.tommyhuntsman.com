@@ -38,7 +38,7 @@ h1::selection { background: darkorchid;}
 /* VERTICAL NAVIGATION MENU */
 
 .mobile-navigation button{ 
-    width: 320px;
+    width: 300px;
     display: block; /* Make the links appear below each other */
     margin: auto;
     float: center;
