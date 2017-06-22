@@ -40,14 +40,13 @@ h1::selection { background: darkorchid;}
 .mobile-navigation button{ 
     background-color: #0EACE2;
     text-align: center;
-    outiline: white;
+    border: 2px solid white;
     border-radius: 8px;
     
 }
 
 .mobile-navigation button {
-    width:85%;
-    border: none;
+    width:55%
     color: white; /* text color */
     display: block; /* Make the links appear below each other */
     margin: auto;
