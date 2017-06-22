@@ -44,8 +44,7 @@ h1::selection { background: darkorchid;}
     float: center;
     padding: 18px 18px; /* Add some padding */
     background-color: black;
-    border: 2px solid #9E9EA9; /* border weight comp and color */
-    border-top-color: #ff0000;
+    border-top-color: white;
     text-align: left;
     text-decoration: none; /* Remove underline from links */
     font-size: 16px;
