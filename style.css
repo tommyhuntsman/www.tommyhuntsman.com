@@ -1,8 +1,6 @@
 
 /* BODY */
-body {
-    background-color: black;
-}
+body {background-color: black;}
 
 /* HEADINGS */
 h1, h3, h4, h5, h6 {
@@ -47,9 +45,7 @@ h1::selection { background: darkorchid;}
     color: white;
     
 }
-.fa:hover {
-    
-}
+
 .main button:hover {
     color: white;
     background-color: ;
@@ -72,7 +68,7 @@ main button:visited {
 /* PARAGRAPHS */
 p {
     font-family: arial;
-    font-size: 0.8em; /* 14px/16=0.875em */
+    font-size: 16px
     color: white;
     text-align: center;
     font-weight: 200;
