@@ -9,6 +9,26 @@ $(document).ready(function(){
   ga('send', 'pageview');
    
 /* The code below enables the panel toggle */
+  $("#webapps").click(function(){
+      $("#webappscontent").slideToggle("slow");
+  });
+
+/* The code below enables the panel toggle */
+  $("#portfolio").click(function(){
+      $("#portfoliocontent").slideToggle("slow");
+  });
+
+/* The code below enables the panel toggle */
+  $("#flip").click(function(){
+      $("#panel").slideToggle("slow");
+  });
+  
+/* The code below enables the panel toggle */
+  $("#flip").click(function(){
+      $("#panel").slideToggle("slow");
+  });
+
+/* The code below enables the panel toggle */
   $("#flip").click(function(){
       $("#panel").slideToggle("slow");
   });
