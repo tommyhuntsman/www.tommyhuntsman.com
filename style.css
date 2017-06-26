@@ -121,14 +121,14 @@ p::selection { background: darkorchid;}
 }
 
 
-#webappscontent, #portfoliocontent {
+ {
     padding: 5px;
     text-align: center;
     background-color: black;
     border: ;
 }
 
-#panel {
+#webappscontent, #portfoliocontent {
     padding: 50px;
     display: none;
 }
