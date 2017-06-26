@@ -121,7 +121,7 @@ p::selection { background: darkorchid;}
 }
 
 
-#panel, #flip {
+#webappscontent, #portfoliocontent {
     padding: 5px;
     text-align: center;
     background-color: black;
