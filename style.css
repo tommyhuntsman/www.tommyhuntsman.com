@@ -31,7 +31,7 @@ h1::selection { background: darkorchid;}
 
 /* MAIN MENU */
 
-.menu{ 
+.menu button{ 
     width: 300px;
     display: block; /* Make the buttons appear below each other */
     margin: auto;
@@ -46,19 +46,19 @@ h1::selection { background: darkorchid;}
     
 }
 
-.menu:hover {
+.menu button:hover {
     color: white;
     background-color: ;
     text-decoration: none;
     opacity: 0.7;
 }
 
-.menu:active {
+.menu button:active {
     background-color: black; /* Add a green color to the "active/current" link */
     color: white;
 }
 
-.menu:visited {
+.menu button:visited {
     color: #00ffaa;
     text-decoration: none;
 }
