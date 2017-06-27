@@ -128,7 +128,7 @@ p::selection { background: darkorchid;}
     border: ;
 }
 
-#webappscontent, #portfoliocontent {
+#webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
     padding: 50px;
     display: none;
 }
