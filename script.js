@@ -19,18 +19,28 @@ $(document).ready(function(){
   });
 
 /* The code below enables the panel toggle */
-  $("#flip").click(function(){
-      $("#panel").slideToggle("slow");
+  $("#quotes").click(function(){
+      $("#quotescontent").slideToggle("slow");
   });
   
 /* The code below enables the panel toggle */
-  $("#flip").click(function(){
-      $("#panel").slideToggle("slow");
+  $("#leaders").click(function(){
+      $("#leaderscontent").slideToggle("slow");
   });
 
 /* The code below enables the panel toggle */
-  $("#flip").click(function(){
-      $("#panel").slideToggle("slow");
+  $("#stocks").click(function(){
+      $("#stockscontent").slideToggle("slow");
+  });
+
+/* The code below enables the panel toggle */
+  $("#favorites").click(function(){
+      $("#favoritescontent").slideToggle("slow");
+  });
+  
+/* The code below enables the panel toggle */
+  $("#recipes").click(function(){
+      $("#recipescontent").slideToggle("slow");
   });
 });
     
