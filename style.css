@@ -22,7 +22,7 @@ h2 {
   font-weight: 200;
   margin-top: 1px;
   margin-bottom: 20px;
-  color: #00ffaa;
+  color: white;
   text-align: center;   
   font-family: arial;
 }
@@ -46,7 +46,7 @@ h2 {
 }
 
 .menu button:hover {
-    color: white;
+    color: #00ffaa;
     background-color: ;
     text-decoration: none;
     opacity: 0.7;
@@ -54,7 +54,7 @@ h2 {
 
 .menu button:active {
     background-color: black; /* Add a green color to the "active/current" link */
-    color: white;
+    color: #00ffaa;
 }
 
 .menu button:visited {
