@@ -2,19 +2,21 @@
 /* BODY */
 body {background-color: black;}
 
-/* HEADINGS */
+/* TEXT FONTS & HEADINGS */
 h1, h3, h4, h5, h6 {
   line-height: 1.45;
   text-align: center;
   font-family: arial;
 }
 
+/*Title Text*/
 h1 {
   font-size: 1.7em; /* 40px/16=2.5em */
   font-weight: 200;
   color: white;
 }
 
+/* Button Content Text */
 h2 {
   font-size: 14px;
   font-weight: 200;
@@ -24,10 +26,6 @@ h2 {
   text-align: center;   
   font-family: arial;
 }
-
-h1::-moz-selection { background: darkorchid;}
-h1::selection { background: darkorchid;}
-
 
 /* MAIN MENU */
 
@@ -64,7 +62,11 @@ h1::selection { background: darkorchid;}
     text-decoration: none;
 }
 
-
+/*Button Content Shape*/
+#webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
+    padding: 50px;
+    display: none;
+}
 
 /* PARAGRAPHS */
 p {
@@ -101,7 +103,7 @@ p::selection { background: darkorchid;}
     opacity: 0.7;
 }
 
-/* Set a specific color for each brand */
+/* Contact Buttons */
 
 /* Google */
 .fa-google {
@@ -121,16 +123,7 @@ p::selection { background: darkorchid;}
     color: white;
 }
 
-
- {
-    padding: 5px;
-    text-align: center;
-    background-color: black;
-    border: ;
-}
-
-#webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
-    padding: 50px;
-    display: none;
-}
+/*Text Highlight Color*/
+h1::-moz-selection { background: darkorchid;}
+h1::selection { background: darkorchid;}
 
