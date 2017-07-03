@@ -71,6 +71,7 @@ p {
     color: white;
     text-align: center;
     font-weight: 200;
+     width: 300px;
 }
 
 p::-moz-selection { background: darkorchid;}
