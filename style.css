@@ -29,7 +29,8 @@ h2 {
 
 /* Main Buttons */
 .menu button{ 
-    max-width: 600px;
+    Width: 600px;
+    max-width: 100%;
     display: block; /* Make the buttons appear below each other */
     margin: auto;
     float: center;
