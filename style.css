@@ -29,7 +29,7 @@ h2 {
 
 /* Main Buttons */
 .menu button{ 
-    width: 300px;
+    max-width: 600px;
     display: block; /* Make the buttons appear below each other */
     margin: auto;
     float: center;
@@ -71,7 +71,7 @@ p {
     color: white;
     text-align: left;
     font-weight: 200;
-    width: 295px;
+    max-width: 580px;
     margin: auto;
     float: center;
 }
