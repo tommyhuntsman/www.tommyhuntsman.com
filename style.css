@@ -11,11 +11,12 @@ h1, h3, h4, h5, h6 {
 
 /*Links*/
 a:link {
-  color: #21AAE3;
+  color: #EB9C24;
+  text-decoration: none;
 }
 
 a:visited {
-  color: #21AAE3;
+  color: #EB9C24;
 }
 
 /*Title Text*/
