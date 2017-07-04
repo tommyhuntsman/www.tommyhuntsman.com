@@ -10,7 +10,11 @@ h1, h3, h4, h5, h6 {
 }
 
 /*Links*?
-a {
+a:link {
+  color: #00ffaa;
+}
+
+a:visited {
   color: #00ffaa;
 }
 
