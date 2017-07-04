@@ -9,6 +9,11 @@ h1, h3, h4, h5, h6 {
   font-family: arial;
 }
 
+/*Links*?
+a {
+  color: #00ffaa;
+}
+
 /*Title Text*/
 h1 {
   font-size: 1.7em; /* 40px/16=2.5em */
