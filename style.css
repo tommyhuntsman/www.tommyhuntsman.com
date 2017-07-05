@@ -61,8 +61,8 @@ h2 {
     opacity: ;
 }
 .menu button:active {
-    background-color: black; /* Add a green color to the "active/current" link */
-    color: #00ffaa;
+    background-color: white; /* Add a green color to the "active/current" link */
+    color: black;
 }
 .menu button:visited {
     color: #00ffaa;
