@@ -1,12 +1,13 @@
 
-/* BODY */
-body {background-color: black;}
-
 html {
   font-size: 2vw; 
 }
 
-/* TEXT FONTS & HEADINGS */
+/* BODY */
+body {background-color: black;}
+
+
+/* HEADINGS TEXT FONTS */
 h1, h3, h4, h5, h6 {
   line-height: 1.45;
   text-align: center;
