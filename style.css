@@ -27,9 +27,16 @@ a:visited {
 /*Title Text*/
 h1 {
   font-size: 2.5em; /* 40px/16=2.5em */
+  font-max-size: 100%;
   font-weight: 200;
   color: white;
 }
+
+@media screen and (min-width: 1200px) {
+  h1 {
+     font-size: 36px;
+  }
+
 
 /* Button Content Text */
 h2 {
