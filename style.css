@@ -1,4 +1,7 @@
 
+
+/*STYLE SHEET*/
+
 html {
   font-size: 2vw; 
   font-size: 36px;
@@ -6,7 +9,6 @@ html {
 
 /* BODY */
 body {background-color: black;}
-
 
 /* HEADINGS TEXT FONTS */
 h1, h3, h4, h5, h6 {
@@ -41,7 +43,7 @@ h2 {
   margin-bottom: 20px;
   color: white;
   text-align: left;   
-  font-family: arial;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* Main Buttons */
