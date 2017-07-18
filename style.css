@@ -12,7 +12,7 @@ body {background-color: black;}
 h1, h3, h4, h5, h6 {
   line-height: 1.45;
   text-align: center;
-  font-family: roboto;
+  font-family: 'Roboto', sans-serif;
 }
 
 /*Links*/
@@ -84,7 +84,7 @@ h2 {
 
 /* PARAGRAPHS */
 p {
-    font-family: arial;
+    font-family: 'Roboto', sans-serif;;
     font-size: 16px
     color: white;
     text-align: left;
