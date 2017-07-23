@@ -49,6 +49,7 @@ h2 {
     font-size: 1em;
     color: white;
     background-color: #212121;
+    outline: none;
     
 }
 .menu button:hover {
@@ -56,10 +57,12 @@ h2 {
     background-color: #00D6FF;
     text-decoration: none;
     opacity: ;
+    outline: none;
 }
 .menu button:active {
     background-color: #00D6FF; /* Add a green color to the "active/current" link */
     color: #00D6FF;
+    outline: none;
 }
 .menu button:visited {
     color: #212121;
