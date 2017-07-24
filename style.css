@@ -3,7 +3,13 @@
 /*STYLE SHEET*/
 
 html {
-  font-size: 2vw; 
+  font-size: calc(1em + 1vw); 
+}
+
+@media screen and (min-width: 50em) {
+  html {
+    font-size: 2vw;
+  }
 }
 
 /* BODY */
