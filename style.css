@@ -132,14 +132,13 @@ a:visited {
 /* Style all font awesome icons */
 
 .fa {
-    display: ; /* block - stacked */
-    margin: auto;
     padding: 20px;
-    font-size: 8px;
+    font-size: 30px;
     width: 30px;
     text-align: center;
     text-decoration: none;
-    color: white;
+    border-radius: 50%;
+    margin: auto;
 }
 
 /* Google */
