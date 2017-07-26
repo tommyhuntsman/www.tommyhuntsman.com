@@ -35,6 +35,7 @@ h2 {
   font-family: 'Roboto', sans-serif;
   font-size: .75em;
   font-weight: 200;
+  line-height: 300;
   margin-top: 1px;
   margin-bottom: 5px;
   color: white;
@@ -46,7 +47,7 @@ h3 {
   font-size: .66em;
   font-weight: 200;
   margin-top: 1px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   color: white;
   text-align: center;   
 }
