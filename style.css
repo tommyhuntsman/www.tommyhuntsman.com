@@ -136,15 +136,16 @@ a:visited {
     margin: auto;
     padding: 20px;
     font-size: 8px;
-    width: 16px;
+    width: 30px;
     text-align: center;
     text-decoration: none;
+    color: white;
 }
 
 /* Google */
 .fa-google {
     background: #f05c5c;
-    color: black;
+    color: white;
 }
 
 /* GitHub */
