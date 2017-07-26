@@ -42,12 +42,13 @@ h2 {
   text-align: left;   
 }
 
+/* Subtitle Text */
 h3 {
   font-family: 'Roboto', sans-serif;
   font-size: .66em;
   font-weight: 200;
-  margin-top: 1px;
-  margin-bottom: 5px;
+  margin-top: 1px; /* px */
+  margin-bottom: ; /* px */
   color: white;
   text-align: center;   
 }
