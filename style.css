@@ -28,6 +28,18 @@ h1 {
   font-size: 1.8em; /* 40px/16=2.5em */
   font-weight: 200;
   color: white;
+  margin-bottom: 5px;
+}
+
+/* Subtitle Text */
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: .66em;
+  font-weight: 200;
+  margin-top: 1px; /* px */
+  margin-bottom: ; /* px */
+  color: white;
+  text-align: center;   
 }
 
 /* Button Content Text */
@@ -40,17 +52,6 @@ h2 {
   margin-bottom: 5px;
   color: white;
   text-align: left;   
-}
-
-/* Subtitle Text */
-h3 {
-  font-family: 'Roboto', sans-serif;
-  font-size: .66em;
-  font-weight: 200;
-  margin-top: 1px; /* px */
-  margin-bottom: ; /* px */
-  color: white;
-  text-align: center;   
 }
 
 /* Main Buttons */
