@@ -76,7 +76,7 @@ h2 {
     color: #f05c5c;
     background-color: #212121;
     text-decoration: none;
-    opacity: 66%;
+    opacity: .66;
     outline: none;
 }
 .menu button:active {
@@ -119,11 +119,11 @@ p::selection { background: darkorchid;}
 }
 
 .fa {
-    display: block;
+    display: ; /* block - stacked */
     margin: auto;
     padding: 20px;
-    font-size: 30px;
-    width: 30px;
+    font-size: 8px;
+    width: 16px;
     text-align: center;
     text-decoration: none;
 }
