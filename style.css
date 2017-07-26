@@ -73,7 +73,7 @@ h2 {
     
 }
 .menu button:hover {
-    color: #f05c5c;
+    color: white;
     background-color: #212121;
     text-decoration: none;
     opacity: .66;
@@ -81,7 +81,7 @@ h2 {
 }
 .menu button:active {
     background-color: #212121; /* Add a green color to the "active/current" link */
-    color: #f05c5c;
+    color: white;
     outline: none;
 }
 .menu button:visited {
