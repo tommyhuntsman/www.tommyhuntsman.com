@@ -78,6 +78,8 @@ h2 {
     text-decoration: none;
     opacity: ; /* .66 */
     outline: none;
+    cursor: pointer;
+  
 }
 .menu button:active {
     background-color: #212121; /* Add a green color to the "active/current" link */
