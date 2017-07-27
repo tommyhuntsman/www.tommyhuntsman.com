@@ -112,12 +112,12 @@ p::-moz-selection { background: darkorchid;}
 p::selection { background: darkorchid;}
 
 
-/* Add a hover effect if you want */
+/* Contact Links Hover */
 .fa:hover {
     opacity: 0.7;
 }
 
-/*Links*/
+/* Links */
 a:link {
   color: #6FB6DA;
   text-decoration: none;
@@ -128,13 +128,13 @@ a:visited {
 }
 
 
-/*Text Highlight Color*/
+/* Text Highlight Color */
 h1::-moz-selection { background: darkorchid;}
 h1::selection { background: darkorchid;}
 
 * {box-sizing:border-box}
 
-/* Slideshow container */
+/* Slideshow Container */
 .slideshow-container {
   max-width: 1000px;
   position: relative;
