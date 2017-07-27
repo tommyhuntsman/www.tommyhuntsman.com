@@ -76,7 +76,7 @@ h2 {
     color: white;
     background-color: #212121;
     text-decoration: none;
-    opacity: .66;
+    opacity: ; /* .66 */
     outline: none;
 }
 .menu button:active {
