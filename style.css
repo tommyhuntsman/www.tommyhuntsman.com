@@ -73,8 +73,8 @@ h2 {
     
 }
 .menu button:hover {
-    color: white;
-    background-color: #212121;
+    color: #212121;
+    background-color: White;
     text-decoration: none;
     opacity: ; /* .66 */
     outline: none;
