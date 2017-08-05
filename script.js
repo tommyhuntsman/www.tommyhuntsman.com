@@ -1,8 +1,4 @@
 $(document).ready(function(){
-
-confirm("delightful");
-
-prompt("How many lumens do you need?");
   
 /* The code below will enable Google Analytics */
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
