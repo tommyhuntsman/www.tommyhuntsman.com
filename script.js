@@ -1,8 +1,5 @@
 $(document).ready(function(){
-  
- $('.your-class').slick({
-    setting-name: setting-value
-  });
+
   
 /* The code below will enable Google Analytics */
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -88,5 +85,12 @@ $(document).ready(function(){
       $("#stockscontent").slideUp("slow");
       $("#favoritescontent").slideUp("slow");
   });
+  
+    
+ $('.your-class').slick({
+    setting-name: setting-value
+  });
+  
+  
 });
     
