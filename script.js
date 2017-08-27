@@ -11,36 +11,78 @@ $(document).ready(function(){
 /* The code below enables the panel toggle */
   $("#webapps").click(function(){
       $("#webappscontent").slideToggle("slow");
+      $("#portfoliocontent").slideUp("slow");
+      $("#quotescontent").slideUp("slow");
+      $("#leaderscontent").slideUp("slow");
+      $("#stockscontent").slideUp("slow");
+      $("#favoritescontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");
   });
 
 /* The code below enables the panel toggle */
   $("#portfolio").click(function(){
       $("#portfoliocontent").slideToggle("slow");
+      $("#webappscontent").slideUp("slow");
+      $("#quotescontent").slideUp("slow");
+      $("#leaderscontent").slideUp("slow");
+      $("#stockscontent").slideUp("slow");
+      $("#favoritescontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");
   });
 
 /* The code below enables the panel toggle */
   $("#quotes").click(function(){
       $("#quotescontent").slideToggle("slow");
+      $("#webappscontent").slideUp("slow");
+      $("#portfoliocontent").slideUp("slow");
+      $("#leaderscontent").slideUp("slow");
+      $("#stockscontent").slideUp("slow");
+      $("#favoritescontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");
   });
   
 /* The code below enables the panel toggle */
   $("#leaders").click(function(){
       $("#leaderscontent").slideToggle("slow");
+      $("#webappscontent").slideUp("slow");
+      $("#portfoliocontent").slideUp("slow");
+      $("#quotescontent").slideUp("slow");
+      $("#stockscontent").slideUp("slow");
+      $("#favoritescontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");
   });
 
 /* The code below enables the panel toggle */
   $("#stocks").click(function(){
       $("#stockscontent").slideToggle("slow");
+      $("#webappscontent").slideUp("slow");
+      $("#portfoliocontent").slideUp("slow");
+      $("#quotescontent").slideUp("slow");
+      $("#leaderscontent").slideUp("slow");
+      $("#favoritescontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");
   });
 
 /* The code below enables the panel toggle */
   $("#favorites").click(function(){
       $("#favoritescontent").slideToggle("slow");
+      $("#webappscontent").slideUp("slow");
+      $("#portfoliocontent").slideUp("slow");
+      $("#quotescontent").slideUp("slow");
+      $("#leaderscontent").slideUp("slow");
+      $("#stockscontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");
   });
   
 /* The code below enables the panel toggle */
   $("#recipes").click(function(){
       $("#recipescontent").slideToggle("slow");
+      $("#webappscontent").slideUp("slow");
+      $("#portfoliocontent").slideUp("slow");
+      $("#quotescontent").slideUp("slow");
+      $("#leaderscontent").slideUp("slow");
+      $("#stockscontent").slideUp("slow");
+      $("#favoritescontent").slideUp("slow");
   });
 });
     
