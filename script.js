@@ -1,10 +1,6 @@
 $(document).ready(function(){
   
-/* Initialize Slick Slider */
-  $('.your-class').slick({
-    setting-name: setting-value
-  });
-  
+ 
   
 /* The code below will enable Google Analytics */
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
