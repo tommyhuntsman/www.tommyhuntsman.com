@@ -1,7 +1,6 @@
 $(document).ready(function(){
   
 /* Initialize Slick Slider */
-  $(document).ready(function(){
   $('.your-class').slick({
     setting-name: setting-value
   });
