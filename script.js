@@ -85,12 +85,5 @@ $(document).ready(function(){
       $("#stockscontent").slideUp("slow");
       $("#favoritescontent").slideUp("slow");
   });
-  
-    
- $('.your-class').slick({
-    setting-name: setting-value
-  });
-  
-  
 });
     
