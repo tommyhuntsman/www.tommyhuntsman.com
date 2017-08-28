@@ -34,7 +34,7 @@ h1 {
 
 /* Subtitle Text */
 h3 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: .75em;
   font-weight: 200;
   margin-top: 1px; /* px */
@@ -45,7 +45,7 @@ h3 {
 
 /* Button Content Text */
 h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: .75em;
   font-weight: ; /* 200 */
   line-height: ;
