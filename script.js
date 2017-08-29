@@ -1,5 +1,7 @@
 $(document).ready(function(){
-  
+
+$('.your-class').slick({
+  });
 
   
 /* The code below will enable Google Analytics */
