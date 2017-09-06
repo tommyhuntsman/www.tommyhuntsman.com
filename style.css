@@ -82,7 +82,7 @@ h2 {
     cursor: pointer;
   
 }
-.menu button:active {
+.menu button.active {
     background-color: #212121; /* Add a green color to the "active/current" link */
     color: white;
     outline: none;
