@@ -92,7 +92,7 @@ h2 {
 }
 
 .your-class {
-    margin: auto;
+    margin: 0 auto;
     float: center;
 }
 
