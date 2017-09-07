@@ -91,10 +91,6 @@ h2 {
     text-decoration: none;
 }
 
-.your-class {
-    margin: 0 auto;
-    float: center;
-}
 
 /*Button Content Shape*/
 #webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
