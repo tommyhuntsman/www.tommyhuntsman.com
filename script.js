@@ -8,6 +8,11 @@ $('.your-class').slick({
   adaptiveHeight: true
   });
 
+$('.menu button')click(function(){
+  $('.menu button')removeClass('active').addClass('inactive');
+    $('this')removeClass('inactive').addClass('active');
+  });
+})
   
 /* The code below will enable Google Analytics */
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
