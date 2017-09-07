@@ -6,7 +6,9 @@ $('.your-class').slick({
   speed: 300,
   slidesToShow: 1,
   adaptiveHeight: true,
-  arrows: false
+  arrows: false,
+  autoplay: true,
+  centermode: true,
   });
   
 /* The code below will enable Google Analytics */
