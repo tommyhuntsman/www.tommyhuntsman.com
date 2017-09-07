@@ -93,6 +93,7 @@ h2 {
 
 #portfoliocontent {
   margin: 0 auto;
+  float: center;
 }
 
 /*Button Content Shape*/
