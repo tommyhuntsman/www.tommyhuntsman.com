@@ -25,7 +25,7 @@ h1, h3, h4, h5, h6 {
 
 /*Title Text*/
 h1 {
-  font-family: 'Damion', cursive;
+  font-family: 'Josefin Sans', sans-serif; 
   font-size: 1.8em; /* 40px/16=2.5em */
   font-weight: 200;
   color: white;
@@ -34,7 +34,7 @@ h1 {
 
 /* Subtitle Text */
 h3 {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Damion', cursive;
   font-size: .75em;
   font-weight: 200;
   margin-top: 1px; /* px */
