@@ -20,7 +20,6 @@ h1, h3, h4, h5, h6 {
   font-family: '', sans-serif;
   line-height: 1.45;
   text-align: center;
-
 }
 
 /*Title Text*/
@@ -70,9 +69,9 @@ h2 {
     font-size: 1em;
     color: #B4B9BA;
     background-color: #212121;
-    outline: none;
-    
+    outline: none;    
 }
+
 .menu button:hover {
     color: white;
     background-color: #212121;
@@ -90,6 +89,11 @@ h2 {
 .menu button:visited {
     color: #f05c5c;
     text-decoration: none;
+}
+
+.your-class {
+    margin: auto;
+    float: center;
 }
 
 /*Button Content Shape*/
