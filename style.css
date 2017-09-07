@@ -91,6 +91,9 @@ h2 {
     text-decoration: none;
 }
 
+#portfoliocontent {
+  margin: 0 auto;
+}
 
 /*Button Content Shape*/
 #webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
