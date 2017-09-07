@@ -5,7 +5,8 @@ $('.your-class').slick({
   infinite: true,
   speed: 300,
   slidesToShow: 1,
-  adaptiveHeight: true
+  adaptiveHeight: true,
+  arrows: false
   });
   
 /* The code below will enable Google Analytics */
