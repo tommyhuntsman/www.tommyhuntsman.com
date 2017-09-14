@@ -56,7 +56,7 @@ h2 {
 
 /* Main Buttons */
 .menu button{ 
-    Width: 800px;
+    Width: 550px;
     max-width: 100%;
     display: block; /* Make the buttons appear below each other */
     margin: auto;
