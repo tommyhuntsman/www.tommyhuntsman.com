@@ -74,7 +74,7 @@ h2 {
 
 .menu button:hover {
     color: white;
-    font-weight: bold;
+    font-weight: 550;
     background-color: #212121;
     text-decoration: none;
     opacity: ; /* .66 */
