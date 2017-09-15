@@ -56,9 +56,9 @@ h2 {
 
 /* PARAGRAPH */
 p {
+    color: #B4B9BA;
     font-family: 'Josefin Sans', sans-serif;;
-    font-size: 16px
-    color: white;
+    font-size: 16px;
     text-align: left;
     font-weight: 200;
     max-width: 500px;
@@ -68,6 +68,8 @@ p {
 
 /* BUTTON */
 .menu button{ 
+    color: #B4B9BA;
+    background-color: #212121;
     Width: 550px;
     max-width: 100%;
     display: block; /* Make the buttons appear below each other */
@@ -79,8 +81,7 @@ p {
     text-align: left;
     text-decoration: none;
     font-size: 1em;
-    color: #B4B9BA;
-    background-color: #212121;
+
     outline: none;    
 }
 
