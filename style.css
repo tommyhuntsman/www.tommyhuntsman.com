@@ -133,8 +133,9 @@ p {
 }
 
 /* Slick Dots */
-.slick-dots {
+.dots {
     color: white;
+    background-color: white;
 }
 
 /* Text Highlight Color */
