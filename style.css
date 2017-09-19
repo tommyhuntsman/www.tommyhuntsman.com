@@ -116,6 +116,9 @@ p {
     display: none;
 }
 
+.your-class {
+    width: 550px
+}
 
 
 /* Text Highlight Color */
