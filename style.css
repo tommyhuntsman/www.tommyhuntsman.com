@@ -117,7 +117,9 @@ p {
 }
 
 .your-class {
-    width: 550px
+    width: 550px;
+    display: block;
+    margin: auto;
 }
 
 
