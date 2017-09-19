@@ -3,7 +3,7 @@ $(document).ready(function(){
 $('.your-class').slick({
   dots: true,
   infinite: true,
-  speed: 300,
+  speed: 333,
   slidesToShow: 1,
   adaptiveHeight: false,
   arrows: false,
