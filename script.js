@@ -5,7 +5,7 @@ $('.your-class').slick({
   infinite: true,
   speed: 300,
   slidesToShow: 1,
-  adaptiveHeight: true,
+  adaptiveHeight: false,
   arrows: false,
   autoplay: false,
   centermode: true,
