@@ -32,7 +32,7 @@ $('.your-class').slick({
 
 /* The code below enables the panel toggle */
   $("#portfolio").click(function(){
-      $("#portfoliocontent").slideToggle("slow");
+      $("#portfoliocontent").show("slow");
       $("#webappscontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
       $("#leaderscontent").slideUp("slow");
