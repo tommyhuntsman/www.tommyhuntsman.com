@@ -132,6 +132,10 @@ p {
     margin: auto;
 }
 
+/* Slick Dots */
+.slick-dots {
+    color: white;
+}
 
 /* Text Highlight Color */
 p::-moz-selection { background: darkorchid;}
