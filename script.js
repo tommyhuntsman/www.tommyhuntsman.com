@@ -6,7 +6,7 @@ $('.your-class').slick({
   speed: 300,
   slidesToShow: 1,
   adaptiveHeight: false,
-  arrows: true,
+  arrows: false,
   autoplay: true,
   centermode: true,
   });
