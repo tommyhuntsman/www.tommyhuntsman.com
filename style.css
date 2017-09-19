@@ -6,14 +6,17 @@ html {
   font-size: calc(1em + 1vw); 
 }
 
+
 @media screen and (min-width: 75em) {
   html {
     font-size: 1.5vw;
   }
 }
 
+
 /* BODY */
 body {background-color: #212121;}
+
 
 /* All Headings */
 h1, h3, h4, h5, h6 {
@@ -21,6 +24,7 @@ h1, h3, h4, h5, h6 {
   line-height: 1;
   text-align: center;
 }
+
 
 /*Title Text*/
 h1 {
@@ -30,6 +34,7 @@ h1 {
   color: white;
   margin-bottom: 5px;
 }
+
 
 /* Subtitle Text */
 h3 {
@@ -41,6 +46,7 @@ h3 {
   color: white;
   text-align: center;   
 }
+
 
 /* Button Content Text */
 h2 {
@@ -54,6 +60,7 @@ h2 {
   text-align: left;   
 }
 
+
 /* PARAGRAPH */
 p {
     color: #B4B9BA;
@@ -65,6 +72,7 @@ p {
     margin: auto;
     float: center;
 }
+
 
 /* BUTTON */
 .menu button{ 
@@ -81,9 +89,9 @@ p {
     text-align: left;
     text-decoration: none;
     font-size: 1em;
-
     outline: none;    
 }
+
 
 .menu button:hover {
     color: white;
@@ -92,23 +100,23 @@ p {
     text-decoration: none;
     opacity: ; /* .66 */
     outline: none;
-    cursor: pointer;
-  
+    cursor: pointer;  
 }
+
+
 .menu button:active {
     background-color: #212121;
     color: white;
     outline: none;
 }
+
+
 .menu button:visited {
     color: #f05c5c;
     text-decoration: none;
 }
 
-#portfoliocontent {
-  margin: 0 auto;
-  float: center;
-}
+
 
 /*Button Content Shape*/
 #webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
@@ -116,6 +124,8 @@ p {
     display: none;
 }
 
+
+/* Slick Slider */
 .your-class {
     width: 550px;
     display: block;
