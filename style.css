@@ -4,7 +4,6 @@
 
 html {
   font-size: calc(1em + 1vw); 
-  overflow-y: scroll;
 }
 
 
@@ -17,25 +16,24 @@ html {
 /* CONTAINER */
 #container {
    min-height:100%;
-   position:relative;
-}
+   position:relative;}
 
 /* BODY */
 
 #body {
    padding:10px;
-   padding-bottom:60px;   /* Height of the footer */
-}
+   padding-bottom:60px;}   /* Height of the footer */
 
-body {background-color: #212121;}
+body {
+  background-color: #212121;
+  overflow-y: scroll;}
 
 
 /* All Headings */
 h1, h3, h4, h5, h6 {
   font-family: '', sans-serif;
   line-height: 1;
-  text-align: center;
-}
+  text-align: center;}
 
 
 /*Title Text*/
@@ -44,8 +42,7 @@ h1 {
   font-size: 1.6em; /* 40px/16=2.5em */
   font-weight: 200;
   color: white;
-  margin-bottom: 5px;
-}
+  margin-bottom: 5px;}
 
 
 /* Subtitle Text */
@@ -56,8 +53,7 @@ h3 {
   margin-top: 1px; /* px */
   margin-bottom: ; /* px */
   color: white;
-  text-align: center;   
-}
+  text-align: center;}
 
 
 /* Button Content Text */
@@ -69,8 +65,7 @@ h2 {
   margin-top: 1px;
   margin-bottom: 5px;
   color: white;
-  text-align: left;   
-}
+  text-align: left;}
 
 
 /* PARAGRAPH */
