@@ -13,8 +13,19 @@ html {
   }
 }
 
+/* CONTAINER */
+#container {
+   min-height:100%;
+   position:relative;
+}
 
 /* BODY */
+
+#body {
+   padding:10px;
+   padding-bottom:60px;   /* Height of the footer */
+}
+
 body {background-color: #212121;}
 
 
@@ -163,5 +174,11 @@ a:visited {
 h1::-moz-selection { background: darkorchid;}
 h1::selection { background: darkorchid;}
 
-
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   background:#6cf;
+}
 
