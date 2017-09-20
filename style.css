@@ -4,6 +4,7 @@
 
 html {
   font-size: calc(1em + 1vw); 
+  overflow-y: scroll;
 }
 
 
