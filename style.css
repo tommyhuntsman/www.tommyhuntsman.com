@@ -75,7 +75,9 @@ h4 {
   margin-top: 1px;
   margin-bottom: 5px;
   color: white;
-  text-align: center;}
+  text-align: center;
+  margin-top: 20px;
+}
 
 /* PARAGRAPH */
 p {
