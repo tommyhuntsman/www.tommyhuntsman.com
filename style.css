@@ -188,7 +188,7 @@ h1::-moz-selection { background: darkorchid;}
 h1::selection { background: darkorchid;}
 
 #footer {
-   background:#6FB6DA; 
+   background:#21212; /* #6FB6DA */ 
    height:60px;   /* Height of the footer */
    position:absolute;
    bottom:0;
