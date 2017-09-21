@@ -3,7 +3,9 @@
 /*STYLE SHEET*/
 
 html {
-  font-size: calc(1em + 1vw); 
+  font-size: calc(1em + 1vw);
+  height:100%
+  padding:0
 }
 
 
