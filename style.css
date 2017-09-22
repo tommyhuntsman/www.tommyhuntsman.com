@@ -92,6 +92,11 @@ h4 {
   margin-top: 20px;}
 
 
+/* HIGHLIGHT COLOR */
+h1, h2, h3, h4, p::-moz-selection { background: darkorchid;}
+h1, h2, h3, h4, p::selection { background: darkorchid;}
+
+
 /* BUTTON */
 .menu button{ 
     color: #B4B9BA;
@@ -166,10 +171,6 @@ a:link {
 a:visited {
   color: #6FB6DA;}
 
-
-/* Text Highlight Color */
-h1::-moz-selection { background: darkorchid;}
-h1::selection { background: darkorchid;}
 
 #footer {
    background:#21212; /* #6FB6DA */ 
