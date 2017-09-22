@@ -93,8 +93,8 @@ h4 {
 
 
 /* HIGHLIGHT COLOR */
-h1, h2, h3, h4, p::-moz-selection { background: darkorchid;}
-h1, h2, h3, h4, p::selection { background: darkorchid;}
+h1, h2, h3, h4::-moz-selection { background: darkorchid;}
+h1, h2, h3, h4::selection { background: darkorchid;}
 
 
 /* BUTTON */
