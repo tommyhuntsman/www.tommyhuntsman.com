@@ -1,7 +1,6 @@
 
 
-/*STYLE SHEET*/
-
+/*HTML*/
 html {
   font-size: calc(1em + 1vw);
   height:100%
@@ -55,10 +54,10 @@ h3 {
   text-align: center;}
 
 
-/* Button Content Text */
+/* BUTTON CONTENT TEXT */
 h2 {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 4em;
+  font-size: 1px;
   font-weight: ; /* 200 */
   line-height: ;
   margin-top: 1px;
