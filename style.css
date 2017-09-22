@@ -57,26 +57,13 @@ h3 {
 /* BUTTON */
 h2 {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 2.2em;
+  font-size: 2em;
   font-weight: ; /* 200 */
   line-height: ;
   margin-top: 1px;
   margin-bottom: 5px;
   color: white;
   text-align: left;}
-
-/* Footer Text */
-h4 {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: .475em;
-  font-weight: ; /* 200 */
-  line-height: 1;
-  margin-top: 1px;
-  margin-bottom: 5px;
-  color: white;
-  text-align: center;
-  margin-top: 20px;}
-
 
 
 /* PARAGRAPH */
@@ -89,6 +76,19 @@ p {
     max-width: 500px;
     margin: auto;
     float: center;}
+
+
+/* FOOTER */
+h4 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: .475em;
+  font-weight: ; /* 200 */
+  line-height: 1;
+  margin-top: 1px;
+  margin-bottom: 5px;
+  color: white;
+  text-align: center;
+  margin-top: 20px;}
 
 
 
