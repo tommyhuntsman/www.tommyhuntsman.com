@@ -5,23 +5,20 @@
 html {
   font-size: calc(1em + 1vw);
   height:100%
-  padding:0
-}
-
+  padding:0}
 
 @media screen and (min-width: 75em) {
   html {
-    font-size: 1.5vw;
-  }
-}
+    font-size: 1.5vw;}}
+
 
 /* CONTAINER */
 #container {
    min-height:100%;
    position:relative;}
 
-/* BODY */
 
+/* BODY */
 #body {
    padding:10px;
    padding-bottom:60px;}   /* Height of the footer */
