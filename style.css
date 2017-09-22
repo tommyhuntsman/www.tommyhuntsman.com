@@ -19,26 +19,23 @@ html {
 
 
 /* BODY */
-#body {
-   padding:10px;
-   padding-bottom:60px;}   /* Height of the footer */
-
 body {
   background-color: #212121;
   overflow-y: scroll;
-  margin: 0
-  padding:0;
-  height:100%;}
+  margin: 0;
+  height:100%;
+  padding:10px;
+  padding-bottom:60px;}   /* Height of the footer */
 
 
-/* All Headings */
+/* FONT */
 h1, h3, h4, h5, h6 {
   font-family: '', sans-serif;
   line-height: 1;
   text-align: center;}
 
 
-/*Title Text*/
+/* TITLE */
 h1 {
   font-family: 'Josefin Sans', sans-serif; 
   font-size: 1.6em; /* 40px/16=2.5em */
@@ -47,7 +44,7 @@ h1 {
   margin-bottom: 5px;}
 
 
-/* Subtitle Text */
+/* SUBTITLE */
 h3 {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.1em;
