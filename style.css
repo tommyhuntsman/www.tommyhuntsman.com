@@ -124,8 +124,8 @@ h1::selection { background: darkorchid;}
     cursor: pointer;}
 
 .menu button:active {
-    background-color: #212121;
     color: white;
+    background-color: #212121;
     outline: none;}
 
 .menu button:visited {
