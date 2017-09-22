@@ -64,7 +64,7 @@ h3 {
 /* Button Content Text */
 h2 {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: .475em;
+  font-size: 4em;
   font-weight: ; /* 200 */
   line-height: ;
   margin-top: 1px;
@@ -82,8 +82,9 @@ h4 {
   margin-bottom: 5px;
   color: white;
   text-align: center;
-  margin-top: 20px;
-}
+  margin-top: 20px;}
+
+
 
 /* PARAGRAPH */
 p {
@@ -94,8 +95,8 @@ p {
     font-weight: 200;
     max-width: 500px;
     margin: auto;
-    float: center;
-}
+    float: center;}
+
 
 
 /* BUTTON */
@@ -113,8 +114,8 @@ p {
     text-align: left;
     text-decoration: none;
     font-size: 1.5em;
-    outline: none;    
-}
+    outline: none;}
+
 
 
 .menu button:hover {
