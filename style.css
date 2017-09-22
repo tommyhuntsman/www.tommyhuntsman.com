@@ -175,7 +175,8 @@ p::selection { background: darkorchid;}
 /* Links */
 a:link {
   color: #6FB6DA;
-  text-decoration: none;
+  text-decoration: none
+    ;
 }
 
 a:visited {
