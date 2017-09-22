@@ -36,22 +36,23 @@ h1, h3, h4, h5, h6 {
 
 /* TITLE */
 h1 {
+  color: white;
   font-family: 'Josefin Sans', sans-serif; 
   font-size: 1.6em; /* 40px/16=2.5em */
   font-weight: 200;
-  color: white;
   margin-bottom: 5px;}
 
 
 /* SUBTITLE */
 h3 {
+  color: white;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.1em;
   font-weight: 200;
+  text-align: center;
   margin-top: 1px; /* px */
-  margin-bottom: ; /* px */
-  color: white;
-  text-align: center;}
+  margin-bottom: ; /* px */}
+
 
 
 /* BUTTON */
@@ -68,14 +69,14 @@ h2 {
 
 /* PARAGRAPH */
 p {
-    color: #B4B9BA; /* #E6E6E6 */
-    font-family: 'Josefin Sans', sans-serif;;
-    font-size: 18px;
-    text-align: left;
-    font-weight: 200;
-    max-width: 500px;
-    margin: auto;
-    float: center;}
+  color: #B4B9BA; /* #E6E6E6 */
+  font-family: 'Josefin Sans', sans-serif;;
+  font-size: 18px;
+  text-align: left;
+  font-weight: 200;
+  max-width: 500px;
+  margin: auto;
+  float: center;}
 
 
 /* FOOTER */
@@ -89,7 +90,6 @@ h4 {
   color: white;
   text-align: center;
   margin-top: 20px;}
-
 
 
 /* BUTTON */
@@ -109,8 +109,6 @@ h4 {
     font-size: 1.5em;
     outline: none;}
 
-
-
 .menu button:hover {
     color: white;
     font-weight: 550;
@@ -118,64 +116,55 @@ h4 {
     text-decoration: none;
     opacity: ; /* .66 */
     outline: none;
-    cursor: pointer;  
-}
-
+    cursor: pointer;}
 
 .menu button:active {
     background-color: #212121;
     color: white;
-    outline: none;
-}
-
+    outline: none;}
 
 .menu button:visited {
     color: #f05c5c;
-    text-decoration: none;
-}
+    text-decoration: none;}
 
 
 
-/*Button Content Shape*/
+/*Button Content Shape?????????????????*/
 #webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
     padding: 10px;
-    display: none;
-}
+    display: none;}
 
 
 /* Slick Slider */
 .your-class {
     width: 550px;
     display: block;
-    margin: auto;
-}
+    margin: auto;}
+
 
 /* Slick Dots */
 .dots {
     color: white;
-    background-color: white;
-}
+    background-color: white;}
+
 
 /* Text Highlight Color */
 p::-moz-selection { background: darkorchid;}
 p::selection { background: darkorchid;}
 
 
-/* Contact Links Hover */
+/* Icon Hover */
 .fa:hover {
-    opacity: 0.7;
-}
+    opacity: 0.7;}
 
-/* Links */
+
+/* Web Links */
 a:link {
   color: #6FB6DA;
-  text-decoration: none
-    ;
-}
+  text-decoration: none;}
 
 a:visited {
-  color: #6FB6DA;
-}
+  color: #6FB6DA;}
 
 
 /* Text Highlight Color */
@@ -187,6 +176,4 @@ h1::selection { background: darkorchid;}
    height:60px;   /* Height of the footer */
    position:absolute;
    bottom:0;
-   width:100%;
-}
-
+   width:100%;}
