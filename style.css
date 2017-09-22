@@ -99,7 +99,7 @@ h1::selection { background: darkorchid;}
 
 /* BUTTON */
 .menu button{ 
-    color: #B4B9BA;
+    color: #B4B4B4; /* #B4B9BA */
     background-color: #212121;
     Width: 550px;
     max-width: 100%;
