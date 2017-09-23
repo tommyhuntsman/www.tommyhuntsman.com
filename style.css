@@ -57,23 +57,23 @@ h3 {
 
 /* BUTTONS */
 h2 {
-  font-family: 'Josefin Sans', sans-serif;
+  color: white;
   font-size: 1em;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: ; /* 200 */
   line-height: ;
   margin-top: 1px;
   margin-bottom: 5px;
-  color: white;
   text-align: left;}
 
 
 /* PARAGRAPH */
 p {
   color: #B4B9BA; /* #E6E6E6 */
-  font-family: 'Josefin Sans', sans-serif;;
-  font-size: .8em;
-  text-align: left;
+  font-size: .6em;
   font-weight: 100;
+  font-family: 'Josefin Sans', sans-serif;;
+  text-align: left;
   max-width: 500px;
   margin: auto;
   float: center;}
