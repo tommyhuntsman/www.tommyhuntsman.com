@@ -75,7 +75,7 @@ p {
   font-family: arial; /*'Josefin Sans', sans-serif;;*/
   text-align: left;
   max-width: 500px;
-  margin: auto;
+  margin: 0;
   float: center;}
 
 
