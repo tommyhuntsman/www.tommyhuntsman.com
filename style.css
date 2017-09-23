@@ -6,7 +6,7 @@ html {
   height:100%
   padding:0}
 
-@media screen and (min-width: 75em) {
+@media screen and (min-width: 5em) {
   html {
     font-size: 7vw;}}
 
