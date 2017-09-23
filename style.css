@@ -74,9 +74,9 @@ p {
   font-weight: 5;
   font-family: arial; /*'Josefin Sans', sans-serif;;*/
   text-align: left;
-  max-width: 500px;
-  margin: 0;
-  float: center;}
+  margin: auto;
+  float: center;
+  max-width: 500px;}
 
 
 /* FOOTER */
