@@ -112,9 +112,7 @@ h1::selection { background: darkorchid;}
     border-top: thin solid white;
     text-align: left;
     text-decoration: none;
-
     outline: none;}
-
 .menu button:hover {
     color: white;
     font-weight: 550;
@@ -123,12 +121,10 @@ h1::selection { background: darkorchid;}
     opacity: ; /* .66 */
     outline: none;
     cursor: pointer;}
-
 .menu button:active {
     color: white;
     background-color: #212121;
     outline: none;}
-
 .menu button:visited {
     color: #f05c5c;
     text-decoration: none;}
