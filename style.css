@@ -1,12 +1,12 @@
 
 
 /*HTML*/
-html {
+/*html {
   font-size: calc(1em + 1vw);
   height:100%
   padding:0}
 
-@media screen and (min-width: 5em) {
+/*@media screen and (min-width: 5em) {
   html {
     font-size: 7vw;}}
 
