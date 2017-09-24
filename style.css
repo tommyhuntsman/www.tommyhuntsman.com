@@ -173,6 +173,6 @@ a:visited {
 #footer {
    background:#21212; /* #6FB6DA */ 
    height:60px;   /* Height of the footer */
-   position:absolute;
+   position:fixed;
    bottom:0;
    width:100%;}
