@@ -82,7 +82,7 @@ p {
 
 /* FOOTER */
 h4 {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: arial; /*'Josefin Sans', sans-serif;;*/
   font-size: .475em;
   font-weight: ; /* 200 */
   line-height: 1;
