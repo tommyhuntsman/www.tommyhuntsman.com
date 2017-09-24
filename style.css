@@ -107,7 +107,7 @@ h1::selection { background: darkorchid;}
     display: block; /* Make the buttons appear below each other */
     margin: auto;
     float: center;
-    padding: 18px 18px;
+    padding: 18px 10px;
     border: none;
     border-top: thin solid white;
     text-align: left;
