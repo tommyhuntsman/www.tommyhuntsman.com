@@ -131,9 +131,10 @@ h1::selection { background: darkorchid;}
 
 
 
-/*Button Content Shape?????????????????*/
+/* Button Content Shape */
 #webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
     padding: 0px;
+    left-margin: 25px;
     display: none;}
 
 
