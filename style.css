@@ -172,7 +172,8 @@ a:visited {
 
 #footer {
    background:#6FB6DA; /* #21212 */ 
-   height:60px;   /* Height of the footer */
+   height:40px;   /* Height of the footer */
+   Margin: auto;
    position:fixed;
    bottom:0;
    width:100%;}
