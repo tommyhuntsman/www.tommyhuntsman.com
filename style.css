@@ -133,7 +133,7 @@ h1::selection { background: darkorchid;}
 
 /* Button Content Shape */
 #webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
-    padding-left: 25px;
+    padding-left: 18px;
     display: none;}
 
 
