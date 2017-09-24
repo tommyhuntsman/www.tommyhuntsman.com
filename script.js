@@ -7,7 +7,7 @@ $('.your-class').slick({
   slidesToShow: 1,
   adaptiveHeight: false,
   arrows: false,
-  autoplay: true,
+  autoplay: false,
   centermode: true,
   });
   
