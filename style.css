@@ -172,7 +172,7 @@ a:visited {
 
 #footer {
    background:linear-gradient(#212121, #363636); /* #21212 #6FB6DA*/ 
-   height:40px;   /* Height of the footer */
+   height:60px;   /* Height of the footer */
    Margin: auto;
    position:fixed;
    bottom:0;
