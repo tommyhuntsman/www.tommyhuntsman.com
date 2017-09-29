@@ -158,11 +158,12 @@ p::selection { background: darkorchid;}
 
 /* Icon Hover */
 .fa:hover {
-    opacity: 0.7;}
+    }
 
 
 /* Web Links */
 a:link {
+  opacity: 0.7;
   color: #6FB6DA;
   text-decoration: none;}
 
