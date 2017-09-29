@@ -158,7 +158,7 @@ p::selection { background: darkorchid;}
 
 /* Icon Hover */
 .fa:hover {
-    }
+    opacity: 1;}
 
 
 /* Web Links */
