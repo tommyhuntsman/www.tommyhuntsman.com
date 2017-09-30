@@ -163,7 +163,7 @@ p::selection { background: darkorchid;}
 
 /* Web Links */
 a:link {
-  opacity: 0.7;
+  opacity: 0.85;
   color: #6FB6DA;
   text-decoration: none;}
 
