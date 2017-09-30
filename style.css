@@ -81,22 +81,7 @@ p {
   max-width: 500px;}
 
 
-/* FOOTER */
-h4 {
-  font-family: arial; /*'Josefin Sans', sans-serif;;*/
-  font-size: .675em;
-  font-weight: ; /* 200 */
-  line-height: 1;
-  margin-top: 1px;
-  margin-bottom: 5px;
-  color: white;
-  text-align: center;
-  margin-top: 20px;}
-
-
-/* HIGHLIGHT COLOR */
-h1::-moz-selection { background: darkorchid;}
-h1::selection { background: darkorchid;}
+/
 
 
 /* BUTTON */
@@ -171,6 +156,7 @@ a:link {
 a:visited {
   color: #6FB6DA;}
 
+/* FOOTER */
 
 #footer {
    background:linear-gradient(#212121, #363636); /* #21212 #6FB6DA*/ 
@@ -180,6 +166,19 @@ a:visited {
    bottom:0;
    width:100%;}
 
-#Header {
- padding-top: 7px; 
-}
+h4 {
+  font-family: arial; /*'Josefin Sans', sans-serif;;*/
+  font-size: .675em;
+  font-weight: ; /* 200 */
+  line-height: 1;
+  margin-top: 1px;
+  margin-bottom: 5px;
+  color: white;
+  text-align: center;
+  margin-top: 20px;}
+
+/* GLOBAL */
+
+/* HIGHLIGHT COLOR */
+h1::-moz-selection { background: darkorchid;}
+h1::selection { background: darkorchid;}
