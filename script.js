@@ -11,6 +11,12 @@ $('.your-class').slick({
   centermode: true,
   });
   
+  
+ $('Button').on('click',function(){
+    $(this).toggleClass('ButtonClicked');
+});
+  
+  
 /* The code below will enable Google Analytics */
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -21,7 +27,6 @@ $('.your-class').slick({
    
 /* The code below enables the panel toggle */
   $("#webapps").click(function(){
-      $(this).toggleClass('ButtonClicked');
       $("#webappscontent").slideToggle("slow");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
