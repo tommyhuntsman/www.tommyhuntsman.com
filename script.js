@@ -21,6 +21,7 @@ $('.your-class').slick({
    
 /* The code below enables the panel toggle */
   $("#webapps").click(function(){
+      $(this).toggleClass('ButtonClicked')
       $("#webappscontent").slideToggle("slow");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
