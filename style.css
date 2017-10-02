@@ -93,6 +93,7 @@ p {
 .menu button{ 
     color: #B9B9B9; /* #B4B9BA */
     background-color: #212121;
+    font-family: 'Londrina Outline', cursive;  
     font-size: 1.1em;  
     Width: 550px;
     max-width: 100%;
