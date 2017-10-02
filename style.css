@@ -95,6 +95,7 @@ p {
     color: #B9B9B9; /* #B4B9BA */
     background-color: #212121;
     font-size: 1.1em;  
+    font-family: 'Josefin Sans', sans-serif;
     Width: 550px;
     max-width: 100%;
     display: block; /* Make the buttons appear below each other */
