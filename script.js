@@ -13,7 +13,7 @@ $('.your-class').slick({
   
   
  $('Button').click(function(){
-   $(this).toggleClass('ButtonClicked');
+   $(this).toggleClass('.ButtonClicked');
 });
   
   
@@ -27,7 +27,7 @@ $('.your-class').slick({
    
 /* The code below enables the panel toggle */
   $("#webapps").click(function(){
-      $(this).toggleClass('ButtonClicked');
+      $(this).toggleClass('.ButtonClicked');
       $("#webappscontent").slideToggle("slow");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
@@ -39,7 +39,7 @@ $('.your-class').slick({
 
 /* The code below enables the panel toggle */
   $("#portfolio").click(function(){
-      $(this).toggleClass('ButtonClicked');
+      $(this).toggleClass('.ButtonClicked');
       $("#portfoliocontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
@@ -51,7 +51,7 @@ $('.your-class').slick({
 
 /* The code below enables the panel toggle */
   $("#quotes").click(function(){
-      $(this).toggleClass('ButtonClicked');
+      $(this).toggleClass('.ButtonClicked');
       $("#quotescontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
@@ -75,7 +75,7 @@ $('.your-class').slick({
 
 /* The code below enables the panel toggle */
   $("#stocks").click(function(){
-      $(this).toggleClass('ButtonClicked');
+      $(this).toggleClass('.ButtonClicked');
       $("#stockscontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
@@ -87,7 +87,7 @@ $('.your-class').slick({
 
 /* The code below enables the panel toggle */
   $("#favorites").click(function(){
-      $(this).toggleClass('ButtonClicked');
+      $(this).toggleClass('.ButtonClicked');
       $("#favoritescontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
@@ -99,7 +99,7 @@ $('.your-class').slick({
   
 /* The code below enables the panel toggle */
   $("#recipes").click(function(){
-      $(this).toggleClass('ButtonClicked');
+      $(this).toggleClass('.ButtonClicked');
       $("#recipescontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
