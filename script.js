@@ -12,8 +12,8 @@ $('.your-class').slick({
   });
   
   
- $("#webapps").on('click',function(){
-    
+ $("#webapps").click(function(){
+   $(this).toggleClass('ButtonClicked');
 });
   
   
