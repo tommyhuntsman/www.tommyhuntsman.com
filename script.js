@@ -12,7 +12,7 @@ $('.your-class').slick({
   });
   
   
- $("#webapps").click(function(){
+ $('Button').click(function(){
    $(this).toggleClass('ButtonClicked');
 });
   
