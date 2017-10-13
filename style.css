@@ -166,7 +166,7 @@ a:link {
 a:visited {
   color: #6FB6DA;}
 
-/* FOOTER */
+/* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER */
 
 #footer {
    background:linear-gradient(#212121, #363636); /* #21212 #6FB6DA*/ 
@@ -182,8 +182,8 @@ h4 {
   font-weight: ; /* 200 */
   line-height: .25;
   margin-top: 1px;
-  margin-bottom: 10px;
-  padding-bottom: 10px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
   color: white;
   text-align: center;
   margin-top: 0px;}
