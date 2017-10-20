@@ -13,7 +13,7 @@ $('.your-class').slick({
   
   
  $('Button').click(function(){
-   $(this).toggleClass('.ButtonClicked');
+   $(this).addClass('.ButtonClicked');
 });
   
   
