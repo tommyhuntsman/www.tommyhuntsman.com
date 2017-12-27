@@ -69,7 +69,7 @@ body {
 /* BUTTONS */
 h2 {
   color: GREEN;
-  font-size: 1em;
+  font-size: 18px;
   font-family: 'Londrina Outline', cursive; /*Josefin Sans, sans-serif;*/
   font-weight: 100; /* 200 */
   line-height: ;
@@ -98,7 +98,7 @@ p {
 .menu button{ 
     color: #B9B9B9; /* #B4B9BA */
     background-color: #212121;
-    font-size: 1.1em;  
+    font-size: 18px;  
     font-family: 'Josefin Sans', sans-serif;
     Width: 550px;
     max-width: 100%;
