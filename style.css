@@ -58,7 +58,7 @@ h3 {
     @-webkit-keyframes colorchange {
       0% {
         
-        color: blue;
+        color: #d35400;
       }
       
       10% {
@@ -78,7 +78,7 @@ h3 {
       
       40% {
         
-        color: blue;
+        color: #2980b9;
       }
       
       50% {
@@ -88,7 +88,7 @@ h3 {
       
       60% {
         
-        color: blue;
+        color: pink;
       }
       
       70% {
