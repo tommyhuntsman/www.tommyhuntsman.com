@@ -217,7 +217,65 @@ p::selection { background: darkorchid;}
 a:link {
   opacity: 0.85;
   color: #6FB6DA;
-  text-decoration: none;}
+  text-decoration: none;
+  -webkit-animation:colorchange 180s infinite alternate;
+}
+
+    @-webkit-keyframes colorchange {
+      0% {
+        
+        color: #d35400;
+      }
+      
+      10% {
+        
+        color: #8e44ad;
+      }
+      
+      20% {
+        
+        color: #1abc9c;
+      }
+      
+      30% {
+        
+        color: #d35400;
+      }
+      
+      40% {
+        
+        color: #2980b9;
+      }
+      
+      50% {
+        
+        color: #f1c40f;
+      }
+      
+      60% {
+        
+        color: pink;
+      }
+      
+      70% {
+        
+        color: #2980b9;
+      }
+      80% {
+     
+        color: #f1c40f;
+      }
+      
+      90% {
+     
+        color: #2980b9;
+      }
+      
+      100% {
+        
+        color: pink;
+      }
+    }
 
 a:visited {
   color: #6FB6DA;}
