@@ -45,16 +45,16 @@ h1 {
 
 /* Subtitle // Icons */
 h3 {
-  color: #313131;
+  color: white;
   font-family: 'Quicksand', sans-serif; /* 'Josefin Sans', sans-serif; */
   font-size: 2em;
   font-weight: 200;
   text-align: center;
   margin-top: 1px; /* px */
   margin-bottom: ; /* px */
-  -webkit-animation:colorchange 180s infinite alternate;
+  /* -webkit-animation:colorchange 180s infinite alternate; */
 }
-
+/*
     @-webkit-keyframes colorchange {
       0% {
         
@@ -110,6 +110,7 @@ h3 {
         color: pink;
       }
     }
+*/
 
 /* BODY */
 body {
