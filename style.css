@@ -32,12 +32,12 @@ h1::selection { background: darkorchid;}
 
 /* HEADER */
 
-/* Title */
+/* TOMMY HUNTSMAN */
 h1 {
   color: white;
   font-family: 'Rubik', sans-serif; /*'Lato', sans-serif;*/ /*;'Josefin Sans', sans-serif; */
-  font-size: .8em; /* 40px/16=2.5em */
-  font-weight: 800;
+  font-size: 40px; /* 40px/16=2.5em */
+  font-weight: 900;
   margin-bottom: 5px;
 }
 
