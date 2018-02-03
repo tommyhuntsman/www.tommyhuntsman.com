@@ -53,6 +53,10 @@ h3 {
   margin-bottom: ; /* px */
 }
 
+/* Icons Padding */
+.icons {
+  margin-top: 10px;
+}
 
 /* BODY */
 body {
