@@ -82,11 +82,11 @@ h2 {
 /* PARAGRAPH */
 p {
   color: #EEEEEE; /* #B4B9BA #E6E6E6 */
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 300;
   font-family: 'Rubik', sans-serif;  /* Quicksand, 'Lato', sans-serif; 'Josefin Sans', sans-serif;;*/
   text-align: left;
-  line-height: 1.4;
+  line-height: 1.6;
   margin: auto;
   float: center;
   max-width: 500px;}
