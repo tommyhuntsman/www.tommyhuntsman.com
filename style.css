@@ -109,7 +109,7 @@ p {
     display: block; /* Make the buttons appear below each other */
     margin: auto;
     float: center;
-    padding: 18px 10px;
+    padding: 18px 10px; /*Button Interior*/
     border: none;
     border-top: thin solid white;
     text-align: left;
@@ -135,6 +135,7 @@ p {
 /* Button Content Shape */
 #webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
     padding-left: 18px;
+    padding-right: 18px;
     display: none;}
 
 
