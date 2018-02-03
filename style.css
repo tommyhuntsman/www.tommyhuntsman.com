@@ -9,7 +9,7 @@
 /* h1, h3, h4, h5, h6 {
   font-family: '', sans-serif;
   line-height: 1;
-  text-align: center;}
+  text-align: center;} */
 
 /* HIGHLIGHT COLOR */
 h1::-moz-selection { background: darkorchid;}
@@ -37,7 +37,7 @@ h1 {
   color: white;
   font-family: 'Rubik', sans-serif; /*'Lato', sans-serif;*/ /*;'Josefin Sans', sans-serif; */
   font-size: 32px; /* 40px/16=2.5em */
-  font-weight: 900;
+  font-weight: 400;
   margin-bottom: 5px;
   text-align: center;
 }
