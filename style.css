@@ -30,7 +30,6 @@ h1::selection { background: darkorchid;}
    min-height:100%;
    position:relative;}
 
-
 /* HEADER */
 
 /* Title */
@@ -86,7 +85,7 @@ p {
   font-weight: 300;
   font-family: 'Rubik', sans-serif;  /* Quicksand, 'Lato', sans-serif; 'Josefin Sans', sans-serif;;*/
   text-align: left;
-  line-height: 1.6;
+  line-height: 1.8;
   margin: auto;
   float: center;
   max-width: 500px;}
