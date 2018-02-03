@@ -230,17 +230,17 @@ a:link {
       
       10% {
         
-        color: pink; 
+        color: #f1c40f; /*yellow gold*/ 
       }
       
       20% {
         
-        color: #f1c40f; /*yellow gold*/
+        color: #8e44ad; /*purple*/
       }
       
       30% {
         
-        color: #8e44ad; /*purple*/
+        color: pink;
       }
       
       40% {
