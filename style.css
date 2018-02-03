@@ -225,32 +225,32 @@ a:link {
     @-webkit-keyframes colorchange {
       0% {
         
-        color: #d35400;
+        color: #1abc9c; /*teal*/
       }
       
       10% {
         
-        color: #8e44ad;
+        color: pink; 
       }
       
       20% {
         
-        color: #1abc9c;
+        color: #f1c40f; /*yellow gold*/
       }
       
       30% {
         
-        color: #d35400;
+        color: #8e44ad; /*purple*/
       }
       
       40% {
         
-        color: #2980b9;
+        color: #2980b9; /*Blue*/
       }
       
       50% {
         
-        color: #f1c40f;
+        color: #1abc9c; /*teal*/
       }
       
       60% {
@@ -260,16 +260,16 @@ a:link {
       
       70% {
         
-        color: #2980b9;
+        color: #f1c40f; /*yellow gold*/
       }
       80% {
      
-        color: #f1c40f;
+        color: #2980b9; /*Blue*/
       }
       
       90% {
      
-        color: #2980b9;
+        color: #8e44ad; /*purple*/
       }
       
       100% {
