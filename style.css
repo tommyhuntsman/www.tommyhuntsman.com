@@ -70,11 +70,11 @@ body {
 }
 
 
-/* BUTTONS */
+/* BUTTONS ?????? Green??? */
 h2 {
   color: GREEN;
   font-size: 18px;
-  font-family: 'Londrina Outline', cursive; /*Josefin Sans, sans-serif;*/
+  font-family: 'Rubik', sans-serif; 'Londrina Outline', cursive; /*Josefin Sans, sans-serif;*/
   font-weight: 100; /* 200 */
   line-height: ;
   margin-top: 1px;
@@ -103,7 +103,7 @@ p {
     color: #B9B9B9; /* #B4B9BA */
     background-color: #212121;
     font-size: 18px;  
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Rubik', sans-serif; /*'Josefin Sans', sans-serif; */
     Width: 550px;
     max-width: 100%;
     display: block; /* Make the buttons appear below each other */
