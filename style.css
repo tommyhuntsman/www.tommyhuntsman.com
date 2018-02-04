@@ -35,8 +35,8 @@ h1::selection { background: darkorchid;}
 /* TOMMY HUNTSMAN */
 h1 {
   color: white;
-  font-family: 'Rubik', sans-serif; /*'Lato', sans-serif;*/ /*;'Josefin Sans', sans-serif; */
-  font-size: 27px; /* 40px/16=2.5em */
+  font-family: 'Lato', sans-serif; /*'Rubik', sans-serif;*/ /*;'Josefin Sans', sans-serif; */
+  font-size: 32px; /* 40px/16=2.5em */
   font-weight: 900;
   margin-bottom: ;
   text-align: center;
@@ -169,7 +169,6 @@ a:link {
   text-decoration: none;
   -webkit-animation:colorchange 180s infinite alternate;
 }
-
     @-webkit-keyframes colorchange {
       0% {color: #1abc9c; /*teal*/}
       10% {color: #f1c40f; /*yellow gold*/ }
