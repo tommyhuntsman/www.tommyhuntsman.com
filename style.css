@@ -37,7 +37,6 @@ h1 {
   color: white;
   font-family: 'Lato', sans-serif; /*'Rubik', sans-serif;*/ /*;'Josefin Sans', sans-serif; */
   font-size: 32px; /* 40px/16=2.5em */
-  font-weight: 900;
   margin-bottom: ;
   text-align: center;
 }
@@ -96,13 +95,12 @@ p {
   max-width: 500px;}
 
 
-
-
 /* BUTTON */
 .menu button{ 
     color: #B9B9B9; /* #B4B9BA */
     background-color: #212121;
-    font-size: 18px;  
+    font-size: 18px;
+    font-weight: 900;
     font-family: 'Rubik', sans-serif; /*'Josefin Sans', sans-serif; */
     Width: 550px;
     max-width: 100%;
