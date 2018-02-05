@@ -36,7 +36,7 @@ h1::selection { background: darkorchid;}
 h1 {
   color: white;
   font-family: 'Lato', sans-serif; /*'Rubik', sans-serif;*/ /*;'Josefin Sans', sans-serif; */
-  font-size: 32px; /* 40px/16=2.5em */
+  font-size: 27px; /* 40px/16=2.5em */
   margin-bottom: ;
   text-align: center;
 }
