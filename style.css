@@ -47,11 +47,11 @@ h1 {
 h3 {
   color: white;
   font-family: 'Quicksand', sans-serif; /* 'Josefin Sans', sans-serif; */
-  font-size: 45px;
+  font-size: 40px;
   font-weight: 200;
   text-align: center;
   margin-top: 5px; /* px */
-  margin-bottom: 5px; /* px */
+  margin-bottom: 10px; /* px */
 }
 
 /* Logos Padding */
