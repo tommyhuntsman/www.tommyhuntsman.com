@@ -37,7 +37,8 @@ h1 {
   color: white;
   font-family: 'Lato', sans-serif; /*'Rubik', sans-serif;*/ /*;'Josefin Sans', sans-serif; */
   font-size: 27px; /* 40px/16=2.5em */
-  margin-bottom: ;
+  margin-top: 5px;
+  margin-bottom: 5px;
   text-align: center;
 }
 
@@ -49,8 +50,8 @@ h3 {
   font-size: 45px;
   font-weight: 200;
   text-align: center;
-  margin-top: ; /* px */
-  margin-bottom: ; /* px */
+  margin-top: 5px; /* px */
+  margin-bottom: 5px; /* px */
 }
 
 /* Logos Padding */
