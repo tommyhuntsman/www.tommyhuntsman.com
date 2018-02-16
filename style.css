@@ -247,6 +247,10 @@ div.scrollmenu {
     max-width: 500px;
     float: center;
     margin: auto;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: 'Rubik', sans-serif;  /* Quicksand, 'Lato', sans-serif; 'Josefin Sans', sans-serif;;*/
+  
 }
 
 div.scrollmenu a {
