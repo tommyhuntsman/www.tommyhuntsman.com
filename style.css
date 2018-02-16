@@ -245,6 +245,7 @@ div.scrollmenu {
     overflow: auto;
     white-space: nowrap;
     max-width: 500px;
+    float: center;
 }
 
 div.scrollmenu a {
