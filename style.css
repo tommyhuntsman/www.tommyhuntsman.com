@@ -244,6 +244,7 @@ div.scrollmenu {
     background-color: #333;
     overflow: auto;
     white-space: nowrap;
+    max-width: 500px;
 }
 
 div.scrollmenu a {
