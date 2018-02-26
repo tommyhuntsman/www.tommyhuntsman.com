@@ -35,6 +35,7 @@ h1::selection { background: darkorchid;}
 /* TOMMY HUNTSMAN */
 h1 {
   color: white;
+  font-weight: 300
   font-family: 'Rubik', sans-serif; /*'Lato', sans-serif;*/ /*;'Josefin Sans', sans-serif; */
   font-size: 27px; /* 40px/16=2.5em */
   margin-top: 10px;
@@ -45,9 +46,9 @@ h1 {
 /* Subtitle */
 h2 {
   color: white;
-  font-family: 'Rubik', sans-serif /*'Quicksand', sans-serif; /* 'Josefin Sans', sans-serif; */
+  font-family: 'Rubik', sans-serif /*'Quicksand', sans-serif;*/ /* 'Josefin Sans', sans-serif; */*/
   font-size: 16px;
-  font-weight: 200;
+  font-weight: 900;
   text-align: center;
   margin-top: 5px; /* px */
   margin-bottom: 5px; /* px */  
@@ -58,7 +59,7 @@ h3 {
   color: white;
   font-family: 'Quicksand', sans-serif; /* 'Josefin Sans', sans-serif; */
   font-size: 40px;
-  font-weight: 200;
+  font-weight: 900;
   text-align: center;
   margin-top: 5px; /* px */
   margin-bottom: 10px; /* px */
@@ -97,7 +98,7 @@ h2 {
 p {
   color: #EEEEEE; /* #B4B9BA #E6E6E6 */
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 900;
   font-family: 'Rubik', sans-serif;  /* Quicksand, 'Lato', sans-serif; 'Josefin Sans', sans-serif;;*/
   text-align: left;
   line-height: 1.8;
