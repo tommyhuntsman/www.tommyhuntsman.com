@@ -143,11 +143,11 @@ p {
 
 
 /* Button Content Shape */
-#webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
+/*#webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
     padding-left: 18px;
     padding-right: 18px;
     display: none;}
-
+*/
 
 /* Slick Slider */
 .your-class {
