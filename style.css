@@ -127,7 +127,7 @@ p {
     outline: none;}
 .menu button:hover {
     color: white;
-    font-weight: 900;
+    font-weight: 700;
     background-color: #212121;
     text-decoration: none;
     opacity: ; /* .66 */
