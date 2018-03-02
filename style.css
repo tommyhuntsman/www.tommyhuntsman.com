@@ -5,12 +5,6 @@
  color: white; 
 }
 
-/* FONT */
-/* h1, h3, h4, h5, h6 {
-  font-family: '', sans-serif;
-  line-height: 1;
-  text-align: center;} */
-
 /* HIGHLIGHT COLOR */
 h1::-moz-selection { background: darkorchid;}
 h1::selection { background: darkorchid;}
@@ -30,7 +24,6 @@ h1::selection { background: darkorchid;}
    min-height:100%;
    position:relative;}
 
-/* HEADER */
 
 /* TOMMY HUNTSMAN */
 h1 {
@@ -54,7 +47,7 @@ h2 {
   margin-bottom: 5px; /* px */  
 }
 
-/* Subtitle // Icons */
+/* Icons */
 h3 {
   color: white;
   font-family: 'Quicksand', sans-serif; /* 'Josefin Sans', sans-serif; */
@@ -142,12 +135,12 @@ p {
     text-decoration: none;}
 
 
-/* Button Content Shape */
-/*#webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
+Button Content Shape
+#webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
     padding-left: 18px;
     padding-right: 18px;
     display: none;}
-*/
+
 
 /* Slick Slider */
 .your-class {
