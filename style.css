@@ -1,10 +1,6 @@
 
 /* GLOBAL */
 
-.ButtonClicked {
- color: white; 
-}
-
 /* HIGHLIGHT COLOR */
 h1::-moz-selection { background: darkorchid;}
 h1::selection { background: darkorchid;}
