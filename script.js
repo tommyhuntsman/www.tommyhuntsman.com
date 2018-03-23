@@ -104,8 +104,6 @@ $('.your-class').slick({
 });
 
 
-<script src="https://www.gstatic.com/firebasejs/4.12.0/firebase.js"></script>
-<script>
   // Initialize Firebase
   var config = {
     apiKey: "AIzaSyA-0w0YeFvKq2guOzEcKeNOmai4Fx44tRY",
@@ -116,5 +114,5 @@ $('.your-class').slick({
     messagingSenderId: "956082552823"
   };
   firebase.initializeApp(config);
-</script>
+
     
