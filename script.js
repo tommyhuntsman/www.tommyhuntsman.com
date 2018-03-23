@@ -102,4 +102,19 @@ $('.your-class').slick({
       $("#favoritescontent").slideUp("slow");
   });
 });
+
+
+<script src="https://www.gstatic.com/firebasejs/4.12.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyA-0w0YeFvKq2guOzEcKeNOmai4Fx44tRY",
+    authDomain: "quoteled-82e1e.firebaseapp.com",
+    databaseURL: "https://quoteled-82e1e.firebaseio.com",
+    projectId: "quoteled-82e1e",
+    storageBucket: "quoteled-82e1e.appspot.com",
+    messagingSenderId: "956082552823"
+  };
+  firebase.initializeApp(config);
+</script>
     
