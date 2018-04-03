@@ -129,19 +129,6 @@ Button Content Shape
     display: none;}
 
 
-/* Slick Slider */
-.your-class {
-    width: 550px;
-    display: block;
-    margin: auto;}
-
-
-/* Slick Dots */
-.dots {
-    color: white;
-    background-color: white;}
-
-
 /* Text Highlight Color */
 p::-moz-selection { background: darkorchid;}
 p::selection { background: darkorchid;}
@@ -152,7 +139,7 @@ p::selection { background: darkorchid;}
     opacity: 1;}
 
 
-/* Web Links */
+/* Web URL Links */
 a:link {
   opacity: 0.85;
   color: #6FB6DA;
