@@ -1,16 +1,5 @@
 $(document).ready(function(){
 
-$('.your-class').slick({
-  dots: true,
-  infinite: true,
-  speed: 333,
-  slidesToShow: 1,
-  adaptiveHeight: false,
-  arrows: false,
-  autoplay: false,
-  centermode: true,
-  });
-  
   
  $('Button').click(function(){
    $(this).addClass('.ButtonClicked');
