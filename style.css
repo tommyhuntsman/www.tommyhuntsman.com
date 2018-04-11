@@ -46,15 +46,14 @@ body {
   padding-bottom:66px;}   /* Height of the footer */
 }
 .buttons{ 
+    display: block; /* Make the buttons appear below each other */
     width: 550px;
     max-width: 100%;
-    color: #B9B9B9; /* #B4B9BA */
     background-color: #212121;
+    font-family: 'Rubik', sans-serif; /*'Josefin Sans', sans-serif; */
+    color: #B9B9B9; /* #B4B9BA */
     font-size: 18px;
     font-weight: 700;
-    font-family: 'Rubik', sans-serif; /*'Josefin Sans', sans-serif; */
-
-    display: block; /* Make the buttons appear below each other */
     margin: auto;
     float: center;
     padding: 18px 10px; /*Button Interior*/
