@@ -1,9 +1,4 @@
 
-/* GLOBAL */
-
-/* HIGHLIGHT COLOR */
-h1::-moz-selection { background: darkorchid;}
-h1::selection { background: darkorchid;}
 
 
 /* CONTAINER */
@@ -50,7 +45,7 @@ body {
   padding:0px;
   padding-bottom:66px;}   /* Height of the footer */
 }
-.menu button{ 
+.buttons{ 
     color: #B9B9B9; /* #B4B9BA */
     background-color: #212121;
     font-size: 18px;
@@ -67,7 +62,7 @@ body {
     text-align: left;
     text-decoration: none;
     outline: none;}
-.menu button:hover {
+.buttons:hover {
     color: white;
     font-weight: 700;
     background-color: #212121;
@@ -75,7 +70,7 @@ body {
     opacity: ; /* .66 */
     outline: none;
     cursor: pointer;}
-.menu button:active {
+.buttons:active {
     color: white;
     background-color: #212121;
     outline: none;}
@@ -101,36 +96,9 @@ p {
 
 
 
-/* Icon Hover */
-.fa:hover {
-    opacity: 1;}
 
 
-/* Web URL Links */
-a:link {
-  opacity: 0.85;
-  color: #6FB6DA;
-  text-decoration: none;
-  -webkit-animation:colorchange 180s infinite alternate;
-}
-    @-webkit-keyframes colorchange {
-      0% {color: #1abc9c; /*teal*/}
-      10% {color: #f1c40f; /*yellow gold*/ }
-      20% {color: #8e44ad; /*purple*/}
-      30% {color: pink;}
-      40% {color: #2980b9; /*Blue*/}
-      50% {color: #1abc9c; /*teal*/}
-      60% {color: pink;}
-      70% {color: #f1c40f; /*yellow gold*/}
-      80% {color: #2980b9; /*Blue*/}
-      90% {color: #8e44ad; /*purple*/}
-      100% {color: pink;}
-    }
-
-a:visited {
-  color: #6FB6DA;}
-
-/* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER *//* FOOTER */
+/* FOOTER COMPONENT */
 
 #footer {
    background:linear-gradient(#212121, #363636); /* #21212 #6FB6DA*/ 
@@ -152,8 +120,7 @@ h4 {
   text-align: center;
   margin-top: 0px;}
 
-/* QUOTES */
-
+/* QUOTE COMPONENT */
 .quotes { position:relative; max-width:25em; list-style-type:none; text-align:center; margin:0 auto; padding:0 }
 .quotes li { position:absolute; left:0; right:0; background:#ddd; text-align:center; padding:1em; border-radius:0.25em; opacity:0; font-family: 'Rubik', sans-serif; }
 .quotes li:last-child { position:relative }
@@ -195,7 +162,6 @@ div.scrollmenu {
     font-size: 16px;
     font-weight: 300;
     font-family: 'Rubik', sans-serif;  /* Quicksand, 'Lato', sans-serif; 'Josefin Sans', sans-serif;;*/
-  
 }
 
 div.scrollmenu a {
@@ -211,3 +177,38 @@ div.scrollmenu a:hover {
     cursor: pointer;
 }
 
+
+/* GLOBAL COMPONENT*/
+
+/* HIGHLIGHT COLOR */
+h1::-moz-selection { background: darkorchid;}
+h1::selection { background: darkorchid;}
+
+/* ICON Hover */
+.fa:hover {
+    opacity: .85;}
+
+
+/* LINKS */
+a:link {
+  opacity: 0.85;
+  color: #6FB6DA;
+  text-decoration: none;
+  -webkit-animation:colorchange 180s infinite alternate;
+}
+    @-webkit-keyframes colorchange {
+      0% {color: #1abc9c; /*teal*/}
+      10% {color: #f1c40f; /*yellow gold*/ }
+      20% {color: #8e44ad; /*purple*/}
+      30% {color: pink;}
+      40% {color: #2980b9; /*Blue*/}
+      50% {color: #1abc9c; /*teal*/}
+      60% {color: pink;}
+      70% {color: #f1c40f; /*yellow gold*/}
+      80% {color: #2980b9; /*Blue*/}
+      90% {color: #8e44ad; /*purple*/}
+      100% {color: pink;}
+    }
+
+a:visited {
+  color: #6FB6DA;}
