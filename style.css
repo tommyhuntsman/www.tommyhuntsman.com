@@ -8,6 +8,10 @@
 
 
 /* HEADER COMPONENT */
+head {
+  background-color: black;
+}
+
 h1 {
   color: white;
   font-weight: 900;
