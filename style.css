@@ -30,15 +30,6 @@ h2 {
   text-align: center;
   margin-top: 5px; /* px */
   margin-bottom: 5px; /* px */  
-  /*?*/
-  color: GREEN;
-  font-size: 12px;
-  font-family: 'Rubik', sans-serif; /*'Londrina Outline', cursive; /*Josefin Sans, sans-serif;*/
-  font-weight: 100; /* 200 */
-  line-height: ;
-  margin-top: 1px;
-  margin-bottom: 5px;
-  text-align: right;
 }
 h3 {
   color: white;
