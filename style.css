@@ -100,10 +100,6 @@ p {
 
 
 
-/* Text Highlight Color */
-p::-moz-selection { background: darkorchid;}
-p::selection { background: darkorchid;}
-
 
 /* Icon Hover */
 .fa:hover {
