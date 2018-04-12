@@ -2,7 +2,7 @@ $(document).ready(function(){
 
   
  $('Button').click(function(){
-   $(this).addClass('.ButtonClicked');
+   $(this).addClass('.buttonClicked');
 });
   
   
