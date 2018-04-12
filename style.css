@@ -77,7 +77,7 @@ body {
     color: white;
     background-color: #212121;
     outline: none;}
-.menu button:visited {
+.buttons:visited {
     color: #f05c5c;
     text-decoration: none;}
 p {
