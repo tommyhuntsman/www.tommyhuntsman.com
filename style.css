@@ -12,17 +12,16 @@ head {
 h1 {
   color: white;
   font-weight: 900;
-  font-family: 'Rubik', sans-serif; /*'Lato', sans-serif;*/ /*;'Josefin Sans', sans-serif; */
+  font-family: 'Rubik', sans-serif; 
   font-size: 27px; /* 40px/16=2.5em */
   margin-top: 10px;
   margin-bottom: 5px;
   text-align: center;
 }
 h2 {
-  color: ;
-  font-family: 'Rubik', sans-serif; /*'Quicksand', sans-serif;*/ /* 'Josefin Sans', sans-serif; */*/
-  font-size: 5px;
-  font-weight: ;
+  color: yellow;
+  font-family: 'Rubik', sans-serif;
+  font-size: 16px;
   text-align: center;
   margin-top: 5px; /* px */
   margin-bottom: 5px; /* px */  
