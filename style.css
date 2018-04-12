@@ -79,7 +79,7 @@ button:active {
 button:visited {
     color: #f05c5c;
     text-decoration: none;}
-p {
+/*p {
   color: #EEEEEE; /* #B4B9BA #E6E6E6 */
   font-size: 16px;
   font-weight: ;
