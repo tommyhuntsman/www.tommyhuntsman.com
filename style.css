@@ -121,7 +121,7 @@ color: white;
 h4 {
   font-family: 'Rubik', sans-serif; /*'Josefin Sans', sans-serif; /*Alegreya Sans, sans-srif; ;*/
   font-size: .7em;
-  font-weight: ; /* 200 */
+  font-weight: 100; /* 200 */
   line-height: .25;
   margin-top: 1px;
   margin-bottom: 0px;
