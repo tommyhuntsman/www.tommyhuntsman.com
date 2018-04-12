@@ -47,7 +47,7 @@ body {
   padding-bottom:66px;}   /* Height of the footer */
 }
 
-button{ 
+button { 
     display: block; /* Make the buttons appear below each other */
     width: 600px;
     max-width: 100%;
