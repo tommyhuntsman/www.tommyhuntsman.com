@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
   
- $('Button').click(function(){
+ $(Button).click(function(){
    $(this).addClass('.ButtonClicked');
 });
   
