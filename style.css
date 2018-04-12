@@ -96,7 +96,13 @@ p {
     display: none;}
 
 .buttonClicked {
-
+color: white;
+    font-weight: 700;
+    background-color: #212121;
+    text-decoration: none;
+    opacity: ; /* .66 */
+    outline: none;
+    }
 }
 
 
