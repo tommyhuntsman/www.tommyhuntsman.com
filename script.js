@@ -1,9 +1,10 @@
 $(document).ready(function(){
 
   
- $('Button').click(function(){
-   $(this).addClass('.buttonClicked');
-});
+function myFunction() {
+  var element = document.getElementById("quotes");
+  element.classList.toggle("mystyle");
+}
   
   
 /* The code below will enable Google Analytics */
