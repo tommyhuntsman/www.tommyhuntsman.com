@@ -50,12 +50,13 @@ h3 {
 
 #quotescontent {
   text-align: left;
-  padding-left:7px;
-  padding-right:7px;
+
 }
 
 .stack {
-  border: thin solid darkgray;	
+  border: thin solid darkgray;
+  padding-left:7px;
+  padding-right:7px;
 }
 
 
