@@ -52,6 +52,11 @@ h3 {
   text-align: left;
 }
 
+.stack {
+  border: thin solid white;	
+}
+
+
 /* BODY COMPONENT */
 body {
   background-color: #212121;
