@@ -138,7 +138,7 @@ color: white;
 footer {
    background: white; /*linear-gradient(#212121, #363636); /* #21212 #6FB6DA*/ 
    height: 66px;   /* Height of the footer */
-   Margin: auto;
+   margin: auto;
    position:fixed;
    bottom:0;
    width:100%;}
