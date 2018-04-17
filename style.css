@@ -136,7 +136,7 @@ color: white;
 /* FOOTER COMPONENT */
 
 footer {
-   background:linear-gradient(#212121, #363636); /* #21212 #6FB6DA*/ 
+   background: white; /*linear-gradient(#212121, #363636); /* #21212 #6FB6DA*/ 
    height: 66px;   /* Height of the footer */
    Margin: auto;
    position:fixed;
@@ -154,6 +154,8 @@ h4 {
   color: white;
   text-align: center;
   margin-top: 0px;}
+
+
 
 /* QUOTE COMPONENT */
 .quotes { position:relative; max-width:25em; list-style-type:none; text-align:center; margin:0 auto; padding:0 }
