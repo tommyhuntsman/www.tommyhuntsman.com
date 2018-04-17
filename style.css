@@ -135,7 +135,7 @@ color: white;
 
 /* FOOTER COMPONENT */
 
-#footer {
+footer {
    background:linear-gradient(#212121, #363636); /* #21212 #6FB6DA*/ 
    height: 66px;   /* Height of the footer */
    Margin: auto;
