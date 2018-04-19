@@ -122,8 +122,8 @@ p {
   max-width: 500px;}
 /*Paragraph Content Shape*/
 #webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
-    padding-left: 18px;
-    padding-right: 18px;
+    padding-left: 8px;
+    padding-right: 8px;
     display: none;}
 
 .buttonClicked {
