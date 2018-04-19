@@ -53,6 +53,10 @@ h3 {
 
 }
 
+#email {
+  text-align: center;
+}
+
 .stack {
   border: thin solid darkgray;
   border-radius: 5px;
