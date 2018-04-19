@@ -141,7 +141,7 @@ p {
 /* FOOTER COMPONENT */
 
 footer {
-   background: white; /*linear-gradient(#212121, #363636); /* #21212 #6FB6DA*/ 
+   background: linear-gradient(#212121, #363636); /* #21212 #6FB6DA*/ 
    height: 66px;   /* Height of the footer */
    margin: auto;
    position:fixed;
