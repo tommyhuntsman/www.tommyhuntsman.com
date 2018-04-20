@@ -90,7 +90,6 @@ button {
     margin: auto;
     float: center;
     padding: 18px 10px; /*Button Interior*/
-    border: none;
     border-top: thin solid white;
     text-align: left;
     text-decoration: none;
@@ -112,7 +111,7 @@ button:visited {
     text-decoration: none;}
 p {
   color: #EEEEEE; /* #B4B9BA #E6E6E6 */
-  font-size: 17px;
+  font-size: 18px;
   font-weight: ;
   font-family: 'Rubik', sans-serif;  /* Quicksand, 'Lato', sans-serif; 'Josefin Sans', sans-serif;;*/
   text-align: left;
