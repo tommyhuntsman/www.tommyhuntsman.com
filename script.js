@@ -1,10 +1,20 @@
-$(document).ready(function(){
-
   
+/* The code below will enable Google Analytics */
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-101640292-1', 'auto');
+  ga('send', 'pageview');
+
 function myFunction() {
   var element = document.getElementById("quotes");
   element.classList.toggle("mystyle");
 }
+
+/* The code below calculates my location time*/
+  var d = new Date();
+  document.getElementByID("date").innerHTML = d;
 
 // I LOVE JS
 // NEW APP LOGIC <3
@@ -94,18 +104,8 @@ document.getElementById(id).onclick = function(){}
 
 */
 
-/* The code below calculates my location time*/
-  var d = new Date();
-  document.getElementByID("date").innerHTML = d;
-  
-  
-/* The code below will enable Google Analytics */
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-101640292-1', 'auto');
-  ga('send', 'pageview');
+$(document).ready(function(){
+
    
 /* The code below enables the panel toggle */
   $("#webapps").click(function(){
