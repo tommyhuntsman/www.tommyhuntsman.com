@@ -80,7 +80,7 @@ body {
 
 button { 
     display: block; /* Make the buttons appear below each other */
-    width: 560px;
+    width: 600px;
     max-width: 100%;
     background-color: #212121;
     font-family: 'Rubik', sans-serif; /*'Josefin Sans', sans-serif; */
