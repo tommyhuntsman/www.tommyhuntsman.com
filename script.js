@@ -5,6 +5,61 @@ function myFunction() {
   var element = document.getElementById("quotes");
   element.classList.toggle("mystyle");
 }
+
+// I LOVE JS
+// NEW APP LOGIC <3
+// button - onlick - get button - toggle class arrow right/down; toggle css color grey/white;
+/*
+
+GET HTML ELEMENTS
+var button = document.getElementById("buttonId")
+var button = document.getElementByTagName("buttonId")
+var button = document.getElementByClassName("buttonId")
+document.anchors
+document.applets
+document.baseURL
+document.body
+document.cookie
+document.doctype
+document.documentElement
+docuemnt.documentMode
+.documentURI
+docuemnt.domain
+document.domConfig
+.embeds
+.forms
+.head
+.images
+.implementation
+.inputEncoding
+.lastModified
+.links
+.readyState
+.referrer
+.scripts
+.strictErrorChecking
+.title
+.URL
+
+CHANGE/MODIFY ELEMENTS
+button.innerHTML  //  new/change html content
+button.attribute  //  new/change attribute value
+button.setAttribute(attribute, value)  //  new/change attribute value
+button.style.property  //  new/change style
+
+ADDING / DELETING ELEMENTS
+document.createElement(element)  //  create an html element
+document.removeChild(element)  //  remove html element
+document.appendChild(element)  //  add html element
+document.replacechild(element)  //  replace html element
+document.write(text)  //  write into the html output stream.
+
+ADD EVENT HANDLERS
+document.getElementById(id).onclick = function(){}
+
+
+*/
+  
   
   
 /* The code below will enable Google Analytics */
