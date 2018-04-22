@@ -101,10 +101,6 @@ $(document).ready(function(){
   ga('create', 'UA-101640292-1', 'auto');
   ga('send', 'pageview');
 
-  
-// The code below calculates my location time
-  var d = new Date();
-  document.getElementById("date").innerHTML = d;
    
 /* The code below enables the panel toggle */
   $("#webapps").click(function(){
