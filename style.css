@@ -72,7 +72,7 @@ body {
 
 button { 
     display: block; /* Make the buttons appear below each other */
-    width: 540px;
+    width: 600px;
     max-width: 100%;
     background-color: #212121;
     font-family: 'Rubik', sans-serif; /*'Josefin Sans', sans-serif; */
@@ -111,7 +111,7 @@ p {
   line-height: 1.5;
   margin: auto;
   float: center;
-  max-width: 500px;
+  max-width: 580px;
 }
 
 /*Paragraph Content Shape*/
