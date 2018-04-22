@@ -1,27 +1,24 @@
-  
-
-
-
+// Author: Tommy Huntsman
 // I LOVE JS
-// NEW APP LOGIC <3
 // button - onlick - get button - toggle class arrow right/down; toggle css color grey/white;
 /*
 
-GET HTML ELEMENTS
+GET AND SET VARIABLES FOR HTML ELEMENTS
+
 var button = document.getElementById("buttonId")
-var button = document.getElementByTagName("buttonId")
-var button = document.getElementByClassName("buttonId")
-document.anchors
-document.applets
-document.baseURL
-document.body
-document.cookie
-document.doctype
-document.documentElement
-docuemnt.documentMode
+.getElementByTagName("buttonId")
+.getElementByClassName("buttonId")
+.anchors
+.applets
+.baseURL
+.body
+.cookie
+.doctype
+.documentElement
+.documentMode
 .documentURI
-docuemnt.domain
-document.domConfig
+.domain
+.domConfig
 .embeds
 .forms
 .head
@@ -39,39 +36,43 @@ document.domConfig
 
 CHANGE/MODIFY ELEMENTS
 button.innerHTML  //  new/change html content
-button.attribute  //  new/change attribute value
-button.setAttribute(attribute, value)  //  new/change attribute value
-button.style.property  //  new/change style
+.attribute  //  new/change attribute value
+.setAttribute(attribute, value)  //  new/change attribute value
+.style.property  //  new/change style
 
 DATA METHODS AND PROPERTIES - How we can play with our data
 var string = "John is walking home";
 string.length
-string.indexOf("walking") = 8 (i) = 5;
-string.replace("is", "was") = "John was walking home";
-string.toUpperCase() = "JOHN IS WALKING HOME";
-string.slice(0, 8) = "John is"
-string.split(0 = converts string to array! Very cool
+.indexOf("walking") = 8 (i) = 5;
+.replace("is", "was") = "John was walking home";
+.toUpperCase() = "JOHN IS WALKING HOME";
+.slice(0, 8) = "John is"
+.split(0 = converts string to array! Very cool
+
 var num = 45;
 nun * 2 = 90;
 num / 5 = 9;
 num.isInterger()
-num.toString()
-num.typeof()  // tells what data type
+.toString()
+.typeof()  // tells what data type
+
 math.pow 
-math.abs (absolute value)
-math.round
-math.floor (round down)
-math.min (minimum of a list of numbers)
-math.max
-math.random (gives you random numbers)
+.abs (absolute value)
+.round
+.floor (round down)
+.min (minimum of a list of numbers)
+.max
+.random (gives you random numbers)
+
 array.length
-array.reverse()
-array.indexOf()
-array.push() (add data to end of array)
-array.pop() (delete data from end of array)
-array.unshift() (add data to beginning of array)
-array.shift() (delete data from beginning of array)
-array.join(" ") (turns array into string)
+.reverse()
+.indexOf()
+.push() (add data to end of array)
+.pop() (delete data from end of array)
+.unshift() (add data to beginning of array)
+.shift() (delete data from beginning of array)
+.join(" ") (turns array into string)
+
 object (student.name .age .profession .grades.1 )
 object.hobby = "swimming";  //  adds key value pair to object
 delete object.age  //  delets key value pair to object
@@ -79,10 +80,10 @@ delete object.age  //  delets key value pair to object
 
 ADDING / DELETING ELEMENTS
 document.createElement(element)  //  create an html element
-document.removeChild(element)  //  remove html element
-document.appendChild(element)  //  add html element
-document.replacechild(element)  //  replace html element
-document.write(text)  //  write into the html output stream.
+.removeChild(element)  //  remove html element
+.appendChild(element)  //  add html element
+.replacechild(element)  //  replace html element
+.write(text)  //  write into the html output stream.
 
 ADD EVENT HANDLERS
 document.getElementById(id).onclick = function(){}
