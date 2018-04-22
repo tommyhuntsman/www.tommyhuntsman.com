@@ -1,12 +1,6 @@
   
 
 
-/*function myFunction() {
-  var element = document.getElementById("quotes");
-  element.classList.toggle("mystyle");
-} */
-
-
 
 // I LOVE JS
 // NEW APP LOGIC <3
