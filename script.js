@@ -102,9 +102,9 @@ $(document).ready(function(){
   ga('send', 'pageview');
 
   
-/* The code below calculates my location time
+// The code below calculates my location time
   var d = new Date();
-  document.getElementByID("date").innerHTML = d;*/
+  document.getElementByID("date").innerHTML = d;
   
    
 /* The code below enables the panel toggle */
