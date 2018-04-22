@@ -7,10 +7,10 @@
   ga('create', 'UA-101640292-1', 'auto');
   ga('send', 'pageview');
 
-function myFunction() {
+/*function myFunction() {
   var element = document.getElementById("quotes");
   element.classList.toggle("mystyle");
-}
+} */
 
 /* The code below calculates my location time*/
   var d = new Date();
