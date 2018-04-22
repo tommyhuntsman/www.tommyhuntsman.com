@@ -103,9 +103,10 @@ $(document).ready(function(){
 
   
 // The code below calculates my location time
+  {
   var d = new Date();
   document.getElementByID("date").innerHTML = d;
-  
+  }
    
 /* The code below enables the panel toggle */
   $("#webapps").click(function(){
