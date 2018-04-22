@@ -103,6 +103,7 @@ $(document).ready(function(){
 
   
 // The code below calculates my location time
+  var d = new Date();
   document.getElementById("date").innerHTML = new Date();
    
 /* The code below enables the panel toggle */
