@@ -95,8 +95,10 @@ $(document).ready(function(){
 
 /* Learning JS */
   function btnClick() {
-    var webApps = document.getElementById("webapps");
-    webApps.classList.toggle("btnClick");
+    var webAppsBtn = document.getElementById("webapps");
+    var wbeAppsCaret = document.getElementById("caret");
+    webAppsBtn.classList.toggle("btnClick");
+    webAppsCaret.classList.toggle("fa fa-caret-down");
   }
   
   /* The code below will enable Google Analytics */
