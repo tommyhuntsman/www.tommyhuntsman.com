@@ -94,9 +94,9 @@ document.getElementById(id).onclick = function(){}
 $(document).ready(function(){
 
 /* Learning JS */
-  function buttonHighlight() {
+  function btnClick() {
     var webApps = document.getElementById("webapps");
-    webApps.classList.toggle("buttonHighlightClass");
+    webApps.classList.toggle("btnClick");
   }
   
   /* The code below will enable Google Analytics */
