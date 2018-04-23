@@ -96,7 +96,7 @@ $(document).ready(function(){
 /* Learning JS */
   function buttonHighlight() {
     var webApps = document.getElementById("webapps");
-    webApps. classList.toggle("buttonHighlightClass");
+    webApps.classList.toggle("buttonHighlightClass");
   }
   
   /* The code below will enable Google Analytics */
