@@ -105,7 +105,7 @@ $(document).ready(function(){
    
 /* The code below enables the panel toggle */
   $(this).on("click", "#webapps", function() {
-    $(this). find(".fas")toggleClass('active');
+    $(this).find(".fas")toggleClass('active');
   });
   
   $("#webapps").click(function(){
