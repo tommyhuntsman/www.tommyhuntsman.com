@@ -113,6 +113,7 @@ $(document).ready(function(){
 /* The code below enables the panel toggle */
   $("#webapps").click(function(){
       $("#webappscontent").slideToggle("slow");
+      $("caret").toggleClass("caretDown");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
       $("#leaderscontent").slideUp("slow");
@@ -120,6 +121,8 @@ $(document).ready(function(){
       $("#favoritescontent").slideUp("slow");
       $("#recipescontent").slideUp("slow");
   });
+  
+  
 
 /* The code below enables the panel toggle */
   $("#portfolio").click(function(){
