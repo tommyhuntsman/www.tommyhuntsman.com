@@ -14,6 +14,7 @@ head {
 
 .fas.active {
   transform: rotateZ(90deg);
+}
 
 h1 {
   color: white;
