@@ -93,13 +93,6 @@ document.getElementById(id).onclick = function(){}
 
 $(document).ready(function(){
 
-/* Button Caret 
-  function btnClick() {
-    var webAppsBtn = document.getElementById("webapps");
-    var wbeAppsCaret = document.getElementById("caret");
-    webAppsBtn.classList.toggle("btnClick");
-    webAppsCaret.classList.toggle("fas fa-caret-down");
-  } */
   
   /* The code below will enable Google Analytics */
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -111,6 +104,10 @@ $(document).ready(function(){
 
    
 /* The code below enables the panel toggle */
+  $(this).on("click", "#webapps", function() {
+    $(this). find(".fas")toggleClass('active');
+  });
+  
   $("#webapps").click(function(){
       $("#webappscontent").slideToggle("slow");
       $("#caret").toggleClass("fas fa-caret-down");
