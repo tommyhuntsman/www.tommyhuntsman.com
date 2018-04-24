@@ -8,11 +8,11 @@ head {
   /*background-color: black;*/
 }
 
-.fas {
+.fa {
   transition: transform .2s;
 }
 
-.fas.active {
+.fa.active {
   transform: rotateZ(90deg);
 }
 
