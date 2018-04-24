@@ -98,7 +98,7 @@ $(document).ready(function(){
     var webAppsBtn = document.getElementById("webapps");
     var wbeAppsCaret = document.getElementById("caret");
     webAppsBtn.classList.toggle("btnClick");
-    webAppsCaret.classList.toggle("fa fa-caret-down");
+    webAppsCaret.classList.toggle("fas fa-caret-down");
   }
   
   /* The code below will enable Google Analytics */
@@ -113,7 +113,7 @@ $(document).ready(function(){
 /* The code below enables the panel toggle */
   $("#webapps").click(function(){
       $("#webappscontent").slideToggle("slow");
-      $("#caret").toggleClass("caretDown");
+      //$("#caret").toggleClass("caretDown");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
       $("#leaderscontent").slideUp("slow");
