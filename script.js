@@ -113,7 +113,7 @@ $(document).ready(function(){
 /* The code below enables the panel toggle */
   $("#webapps").click(function(){
       $("#webappscontent").slideToggle("slow");
-      $("caret").toggleClass("caretDown");
+      $("#caret").toggleClass("caretDown");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
       $("#leaderscontent").slideUp("slow");
