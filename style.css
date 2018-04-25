@@ -16,6 +16,10 @@ head {
   transform: rotateZ(90deg);
 }
 
+/* ICON Hover */
+.fa:hover {
+    opacity: .85;}
+
 h1 {
   color: white;
   font-weight: 900;
@@ -226,10 +230,6 @@ div.scrollmenu a:hover {
 /* HIGHLIGHT COLOR */
 h1::-moz-selection { background: darkorchid;}
 h1::selection { background: darkorchid;}
-
-/* ICON Hover */
-.fa:hover {
-    opacity: .85;}
 
 
 /* LINKS */
