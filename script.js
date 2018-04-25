@@ -109,6 +109,7 @@ $(document).ready(function(){
   });
   
   $("#webapps").click(function(){
+      $(this).find(".fa").toggleClass('active);
       $("#webappscontent").slideToggle("slow");
       $("#caret").toggleClass("fas fa-caret-down");
       $("#portfoliocontent").slideUp("slow");
