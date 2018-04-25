@@ -119,6 +119,7 @@ $(document).ready(function(){
 
 /* The code below enables the panel toggle */
   $("#portfolio").click(function(){
+      $(this).find(".fa").toggleClass('active');
       $("#portfoliocontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
@@ -130,6 +131,7 @@ $(document).ready(function(){
 
 /* The code below enables the panel toggle */
   $("#quotes").click(function(){
+      $(this).find(".fa").toggleClass('active');
       $("#quotescontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
@@ -141,6 +143,7 @@ $(document).ready(function(){
   
 /* The code below enables the panel toggle */
   $("#leaders").click(function(){
+      $(this).find(".fa").toggleClass('active');
       $("#leaderscontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
@@ -152,6 +155,7 @@ $(document).ready(function(){
 
 /* The code below enables the panel toggle */
   $("#stocks").click(function(){
+      $(this).find(".fa").toggleClass('active');
       $("#stockscontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
@@ -163,6 +167,7 @@ $(document).ready(function(){
 
 /* The code below enables the panel toggle */
   $("#favorites").click(function(){
+      $(this).find(".fa").toggleClass('active');
       $("#favoritescontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
@@ -174,6 +179,7 @@ $(document).ready(function(){
   
 /* The code below enables the panel toggle */
   $("#recipes").click(function(){
+      $(this).find(".fa").toggleClass('active');
       $("#recipescontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
