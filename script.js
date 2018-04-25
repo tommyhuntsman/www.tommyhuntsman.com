@@ -106,13 +106,13 @@ $(document).ready(function(){
   $("#webapps").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#webappscontent").slideToggle("slow");
-      $("#caret").toggleClass("fas fa-caret-down");
+      /*$("#caret").toggleClass("fas fa-caret-down");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
       $("#leaderscontent").slideUp("slow");
       $("#stockscontent").slideUp("slow");
       $("#favoritescontent").slideUp("slow");
-      $("#recipescontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");*/
   });
   
   
@@ -121,72 +121,72 @@ $(document).ready(function(){
   $("#portfolio").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#portfoliocontent").slideToggle("slow");
-      $("#webappscontent").slideUp("slow");
+      /*$("#webappscontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
       $("#leaderscontent").slideUp("slow");
       $("#stockscontent").slideUp("slow");
       $("#favoritescontent").slideUp("slow");
-      $("#recipescontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");*/
   });
 
 /* The code below enables the panel toggle */
   $("#quotes").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#quotescontent").slideToggle("slow");
-      $("#webappscontent").slideUp("slow");
+      /*$("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
       $("#leaderscontent").slideUp("slow");
       $("#stockscontent").slideUp("slow");
       $("#favoritescontent").slideUp("slow");
-      $("#recipescontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");*/
   });
   
 /* The code below enables the panel toggle */
   $("#leaders").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#leaderscontent").slideToggle("slow");
-      $("#webappscontent").slideUp("slow");
+      /*$("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
       $("#stockscontent").slideUp("slow");
       $("#favoritescontent").slideUp("slow");
-      $("#recipescontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");*/
   });
 
 /* The code below enables the panel toggle */
   $("#stocks").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#stockscontent").slideToggle("slow");
-      $("#webappscontent").slideUp("slow");
+      /*$("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
       $("#leaderscontent").slideUp("slow");
       $("#favoritescontent").slideUp("slow");
-      $("#recipescontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");*/
   });
 
 /* The code below enables the panel toggle */
   $("#favorites").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#favoritescontent").slideToggle("slow");
-      $("#webappscontent").slideUp("slow");
+      /*$("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
       $("#leaderscontent").slideUp("slow");
       $("#stockscontent").slideUp("slow");
-      $("#recipescontent").slideUp("slow");
+      $("#recipescontent").slideUp("slow");*/
   });
   
 /* The code below enables the panel toggle */
   $("#recipes").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#recipescontent").slideToggle("slow");
-      $("#webappscontent").slideUp("slow");
+      /*$("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
       $("#leaderscontent").slideUp("slow");
       $("#stockscontent").slideUp("slow");
-      $("#favoritescontent").slideUp("slow");
+      $("#favoritescontent").slideUp("slow");*/
   });
 });
 
