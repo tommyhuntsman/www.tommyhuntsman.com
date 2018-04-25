@@ -104,7 +104,7 @@ $(document).ready(function(){
 
   
   $("#webapps").click(function(){
-      $("#webapps").find(".fa").toggleClass('active');
+      $(this).find(".fa").toggleClass('active');
       $("#webappscontent").slideToggle("slow");
       $("#caret").toggleClass("fas fa-caret-down");
       $("#portfoliocontent").slideUp("slow");
