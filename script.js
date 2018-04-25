@@ -102,11 +102,6 @@ $(document).ready(function(){
   ga('create', 'UA-101640292-1', 'auto');
   ga('send', 'pageview');
 
-   
-/* The code below enables the panel toggle */
-  $(this).on("click", "#webapps", function() {
-    $(this).find(".fas")toggleClass('active');
-  });
   
   $("#webapps").click(function(){
       $(this).find(".fa").toggleClass('active);
