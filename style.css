@@ -16,6 +16,11 @@ head {
   transform: rotateZ(90deg);
 }
 
+#clock {
+  padding-bottom: 4px;
+
+}
+
 /* ICON Hover */
 .fa:hover {
     opacity: .50;}
