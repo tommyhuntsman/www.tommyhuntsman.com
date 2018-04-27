@@ -84,7 +84,7 @@ body {
   height:100%;
   position:relative;
   padding:0px;
-  padding-bottom:30px;}   /* Height of the footer */
+  padding-bottom:35px;}   /* Height of the footer */
 
 
 button { 
@@ -151,7 +151,7 @@ p {
 
 footer {
    background: linear-gradient(#212121, #363636); /* #21212 #6FB6DA*/ 
-   height: 30px;   /* Height of the footer */
+   height: 35px;   /* Height of the footer */
    margin: auto;
    position:fixed;
    bottom:0;
