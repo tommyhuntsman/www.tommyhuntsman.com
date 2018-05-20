@@ -67,7 +67,7 @@ h3 {
 }
 
 .stack {
-  border: thin solid darkgray;
+  /*border: thin solid darkgray;*/
   border-radius: 5px;
   padding-left:7px;
   padding-right:7px;
@@ -121,7 +121,7 @@ button:visited {
     color: #f05c5c;
     text-decoration: none;}
 p {
-  color: #EEEEEE; /* #B4B9BA #E6E6E6 */
+  color: darkgrey; /* #EEEEEE #B4B9BA #E6E6E6 */
   font-size: 16px;
   font-weight: 100;
   font-family: 'Rubik', sans-serif;  /* Quicksand, 'Lato', sans-serif; 'Josefin Sans', sans-serif;;*/
