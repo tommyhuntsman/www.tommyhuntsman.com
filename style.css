@@ -73,7 +73,7 @@ h3 {
   padding-right:7px;
   max-width: 500px;
   margin: auto;
-  background-color: #f2f2f2;
+  background-color: #686868;
 }
 
 
@@ -121,7 +121,7 @@ button:visited {
     color: #f05c5c;
     text-decoration: none;}
 p {
-  color: darkgrey; /* #EEEEEE #B4B9BA #E6E6E6 */
+  color: #EEEEEE; /*  #B4B9BA #E6E6E6 */
   font-size: 16px;
   font-weight: 100;
   font-family: 'Rubik', sans-serif;  /* Quicksand, 'Lato', sans-serif; 'Josefin Sans', sans-serif;;*/
