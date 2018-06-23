@@ -3,6 +3,21 @@
    min-height:100%;
    position:relative;}
 
+.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+
+  .card {
+    display: inline-block;
+  }
+}
+
+.scrolling-wrapper {
+  -webkit-overflow-scrolling: touch;
+}
+
+
 /* HEADER COMPONENT */
 head {
   /*background-color: black;*/
