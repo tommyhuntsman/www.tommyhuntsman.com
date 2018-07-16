@@ -150,7 +150,7 @@ p {
 }
 
 /*Paragraph Content Shape*/
-#webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #favoritescontent, #recipescontent {
+#webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #recipescontent {
     padding-left: 8px;
     padding-right: 8px;
     display: none;
