@@ -178,7 +178,7 @@ $(document).ready(function(){
   
 /* The code below enables the panel toggle */
   $("#recipes").click(function(){
-      $(this).find(".fa").toggleClass('active');
+      $(this).find("active").toggleClass('.fa');
       $("#recipescontent").slideToggle("slow");
       /*$("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
