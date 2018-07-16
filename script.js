@@ -166,7 +166,7 @@ $(document).ready(function(){
 
 /* The code below enables the panel toggle */
   $("#favorites").click(function(){
-      $(this).find(".fa").toggleClass('hidden');
+      $(this).find(".fa").toggleClass('active');
       $("#favoritescontent").slideToggle("slow");
       $("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
