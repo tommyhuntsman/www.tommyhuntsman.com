@@ -68,6 +68,11 @@ h3 {
   margin-bottom: 10px; /* px */
 }
 
+.work {
+  font-size: 20px;
+  font-weight: 700;
+}
+
 #headerlogos {
   text-align: center;
 }
