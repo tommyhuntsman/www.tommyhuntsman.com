@@ -96,7 +96,7 @@ h3 {
 
 /* BODY COMPONENT */
 body {
-  background-image: url("pattern.png");
+  background-image: url("pattern1.png");
   /*background: #262626;*/
   overflow-y: scroll; /* no side scroll bar */
   margin: 0;
