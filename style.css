@@ -267,7 +267,7 @@ a:link {
   opacity: 0.85;
   color: #6FB6DA;
   text-decoration: none;
-  -webkit-animation:colorchange 180s infinite alternate;
+  -webkit-animation:colorchange 30s infinite alternate;
 }
     @-webkit-keyframes colorchange {
       0% {color: #1abc9c; /*teal*/}
