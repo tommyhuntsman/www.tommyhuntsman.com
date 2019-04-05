@@ -19,6 +19,10 @@
 
 
 /* HEADER COMPONENT */
+#logo {
+	margin: 0 auto;
+}
+
 head {
   /*background-color: black;*/
 }
