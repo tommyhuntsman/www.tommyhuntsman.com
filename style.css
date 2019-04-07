@@ -158,9 +158,9 @@ p {
   font-family: 'Rubik', sans-serif;  /* Quicksand, 'Lato', sans-serif; 'Josefin Sans', sans-serif;;*/
   text-align: left;
   line-height: 1.5;
-  /* margin: auto; */
+  margin: auto;
   float: center;
-  max-width: 580px;
+  max-width: 600px;
 }
 
 /*Paragraph Content Shape*/
