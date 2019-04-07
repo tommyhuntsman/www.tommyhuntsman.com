@@ -103,7 +103,7 @@ $(document).ready(function(){
   ga('send', 'pageview');
 
   
-  $("#webapps").click(function(){
+  $("#about").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#webappscontent").slideToggle("slow");
       $("#portfoliocontent").slideUp("slow");
