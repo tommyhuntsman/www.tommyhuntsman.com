@@ -94,8 +94,8 @@ document.getElementById(id).onclick = function(){}
 $(document).ready(function(){
 
 // Email Alert
-  let email = document.getElementById("email");
-  email.addEventListener("click", () => alert("Thanks for clicking"));
+  let emailPopup = document.getElementById("email");
+  emailPopup.addEventListener("click", () => alert("Thanks for clicking"));
   
   /* The code below will enable Google Analytics */
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
