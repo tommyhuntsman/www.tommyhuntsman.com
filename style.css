@@ -156,7 +156,7 @@ button:visited {
 
 #email { 
     display: ; /* Make the buttons appear below each other */
-    width: 70px;
+    width: 100px;
     background-color: #262626;
     font-family: 'Rubik', sans-serif; /*'Josefin Sans', sans-serif; */
     color: #B9B9B9; /* #B4B9BA */
@@ -170,7 +170,7 @@ button:visited {
     text-align: left;
     text-decoration: none;
     outline: none;}
-button:hover {
+#email:hover {
     color: white;
     font-weight: 700;
     background-color: #262626;
@@ -178,11 +178,11 @@ button:hover {
     opacity: ; /* .66 */
     outline: none;
     cursor: pointer;}
-button:active {
+#email:active {
     color: white;
     background-color: #262626;
     outline: none;}
-button:visited {
+#email:visited {
     color: #f05c5c;
     text-decoration: none;}
 
