@@ -159,17 +159,19 @@ button:visited {
     width: 100px;
     background-color: #262626;
     font-family: 'Rubik', sans-serif; /*'Josefin Sans', sans-serif; */
-    color: #B9B9B9; /* #B4B9BA */
+    color: #B9B9B9; 
     font-size: 18px;
-    font-weight: 700;
+    font-weight: ;
     margin: ;
     float: ;
-    padding: 18px 10px; /*Button Interior*/
-    border: none;
-    border-top: 1px solid grey;
+    padding: 10px 10px; /*Button Interior*/
+    border: ;
+    border-top: ;
     text-align: left;
     text-decoration: none;
-    outline: none;}
+    outline: ;
+}
+
 #email:hover {
     color: white;
     font-weight: 700;
