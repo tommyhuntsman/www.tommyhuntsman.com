@@ -1,4 +1,5 @@
 /* CONTAINER */
+
 #container {
    min-height:100%;
    position:relative;}
@@ -105,7 +106,6 @@ h3 {
   margin: auto;
   background-color: #333333;
   border: ;
-
 }
 
 
@@ -153,6 +153,41 @@ button:active {
 button:visited {
     color: #f05c5c;
     text-decoration: none;}
+
+#email { 
+    display: ; /* Make the buttons appear below each other */
+    width: 600px;
+    max-width: 100%;
+    background-color: #262626;
+    font-family: 'Rubik', sans-serif; /*'Josefin Sans', sans-serif; */
+    color: #B9B9B9; /* #B4B9BA */
+    font-size: 18px;
+    font-weight: 700;
+    margin: auto;
+    float: center;
+    padding: 18px 10px; /*Button Interior*/
+    border: none;
+    border-top: 1px solid grey;
+    text-align: left;
+    text-decoration: none;
+    outline: none;}
+button:hover {
+    color: white;
+    font-weight: 700;
+    background-color: #262626;
+    text-decoration: none;
+    opacity: ; /* .66 */
+    outline: none;
+    cursor: pointer;}
+button:active {
+    color: white;
+    background-color: #262626;
+    outline: none;}
+button:visited {
+    color: #f05c5c;
+    text-decoration: none;}
+
+
 p {
   color: #EEEEEE; /*  #B4B9BA #E6E6E6 */
   font-size: 16px;
