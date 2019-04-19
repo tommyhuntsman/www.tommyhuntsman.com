@@ -105,7 +105,9 @@ $(document).ready(function(){
   ga('create', 'UA-101640292-1', 'auto');
   ga('send', 'pageview');
 
-  
+
+/* The code below enables the panel toggle */
+
   $("#about").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#webappscontent").slideToggle("slow");
@@ -116,10 +118,7 @@ $(document).ready(function(){
       $("#favoritescontent").slideUp("slow");
       $("#recipescontent").slideUp("slow");
   });
-  
-  
 
-/* The code below enables the panel toggle */
   $("#portfolio").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#portfoliocontent").slideToggle("slow");
@@ -131,7 +130,6 @@ $(document).ready(function(){
       $("#recipescontent").slideUp("slow");
   });
 
-/* The code below enables the panel toggle */
   $("#quotes").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#quotescontent").slideToggle("slow");
@@ -143,7 +141,6 @@ $(document).ready(function(){
       $("#recipescontent").slideUp("slow");
   });
   
-/* The code below enables the panel toggle */
   $("#leaders").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#leaderscontent").slideToggle("slow");
@@ -155,7 +152,6 @@ $(document).ready(function(){
       $("#recipescontent").slideUp("slow");
   });
 
-/* The code below enables the panel toggle */
   $("#stocks").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#stockscontent").slideToggle("slow");
@@ -167,7 +163,6 @@ $(document).ready(function(){
       $("#recipescontent").slideUp("slow");
   });
 
-/* The code below enables the panel toggle */
   $("#favorites").click(function(){
       $(this).find(".fa").toggleClass('active');
       $("#favoritescontent").slideToggle("slow");
@@ -179,7 +174,7 @@ $(document).ready(function(){
       $("#recipescontent").slideUp("slow");
   });
   
-/* The code below enables the panel toggle */
+/* The code below enables the panel toggle 
   $("#recipes").click(function(){
       $(this).find("active").toggleClass('.fa');
       $("#recipescontent").slideToggle("slow");
@@ -189,7 +184,7 @@ $(document).ready(function(){
       $("#leaderscontent").slideUp("slow");
       $("#stockscontent").slideUp("slow");
       $("#favoritescontent").slideUp("slow");*/
-  });
+  });*/
 });
 
     
