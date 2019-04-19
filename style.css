@@ -125,7 +125,7 @@ button {
     display: block; /* Make the buttons appear below each other */
     width: 600px;
     max-width: 100%;
-    background-color: #262626;
+    background-color: transparent;
     opacity: 0;
     font-family: 'Rubik', sans-serif; /*'Josefin Sans', sans-serif; */
     color: #B9B9B9; /* #B4B9BA */
@@ -135,7 +135,7 @@ button {
     float: center;
     padding: 18px 10px; /*Button Interior*/
     border: none;
-    border-top: 1px solid grey;
+    border-top: /*1px solid grey*/;
     text-align: left;
     text-decoration: none;
     outline: none;}
