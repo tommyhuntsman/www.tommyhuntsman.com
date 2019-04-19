@@ -178,12 +178,12 @@ $(document).ready(function(){
   $("#recipes").click(function(){
       $(this).find("active").toggleClass('.fa');
       $("#recipescontent").slideToggle("slow");
-      /*$("#webappscontent").slideUp("slow");
+      $("#webappscontent").slideUp("slow");
       $("#portfoliocontent").slideUp("slow");
       $("#quotescontent").slideUp("slow");
       $("#leaderscontent").slideUp("slow");
       $("#stockscontent").slideUp("slow");
-      $("#favoritescontent").slideUp("slow");*/
+      $("#favoritescontent").slideUp("slow");
   });*/
 });
 
