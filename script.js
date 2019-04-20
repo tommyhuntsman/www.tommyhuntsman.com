@@ -1,8 +1,6 @@
 // I LOVE JS
 // Author: Tommy Huntsman
 // button - onlick - get button - toggle class arrow right/down; toggle css color grey/white;
-// GET AND SET VARIABLES FOR HTML ELEMENTS
-
 
 $(document).ready(function(){
 
