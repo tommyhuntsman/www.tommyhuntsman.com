@@ -1,14 +1,16 @@
 // I LOVE JS
 // Author: Tommy Huntsman
 // button - onlick - get button - toggle class arrow right/down; toggle css color grey/white;
-
 // GET AND SET VARIABLES FOR HTML ELEMENTS
+
 
 $(document).ready(function(){
 
+  
 // Email Alert
   let emailPopup = document.getElementById("email");
   emailPopup.addEventListener("click", () => alert("Email me thomas.huntsman@gmail.com"));
+  
   
 // Google Analytics
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -18,6 +20,7 @@ $(document).ready(function(){
   ga('create', 'UA-101640292-1', 'auto');
   ga('send', 'pageview');
 
+  
 // Panel Toggle
 
   $("#about").click(function(){
