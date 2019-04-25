@@ -4,11 +4,11 @@
 
 $(document).ready(function(){
 
-  
+  /*
 // Email Alert
   let emailPopup = document.getElementById("email");
   emailPopup.addEventListener("click", () => alert("Email me thomas.huntsman@gmail.com"));
-  
+  */
   
 // Google Analytics
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
