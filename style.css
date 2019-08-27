@@ -166,7 +166,7 @@ p {
 }
 
 /*Paragraph Content Shape*/
-#webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #recipescontent {
+#webappscontent, #portfoliocontent, #quotescontent, #leaderscontent, #stockscontent, #recipescontent, #favoritescontent {
     /* padding-left: 8px;
     padding-right: 8px; */
     display: none;
